@@ -1,6 +1,37 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
 	<ConfigVersions>
+		<Metadata name="AccumulationRegister.ОтработкаПропусков" id="be56fba3-4543-4ee8-aad6-f42519023db0" configVersion="0624e4727ec1a249bee37d4ff0dd893c00000000">
+			<Metadata name="AccumulationRegister.ОтработкаПропусков.Dimension.Дисциплина" id="440010b5-3b9f-45db-bf5f-cd75517b29e4"/>
+			<Metadata name="AccumulationRegister.ОтработкаПропусков.Dimension.ВидЗанятия" id="bca734fd-c6e3-47d2-a5c8-5b0b75fc98f2"/>
+			<Metadata name="AccumulationRegister.ОтработкаПропусков.Dimension.Обучающийся" id="e29df451-c030-4b50-b991-6897a823cfe4"/>
+			<Metadata name="AccumulationRegister.ОтработкаПропусков.Resource.ЧасыКОтработке" id="ee96ead1-ea77-4ef0-a730-3840b50168c5"/>
+		</Metadata>
+		<Metadata name="AccumulationRegister.ПлановыеЧасыОбучения" id="ee82815c-8796-4f5f-a9cd-19d9e6875929" configVersion="23515164673e774c939fdb73927e9d6f00000000">
+			<Metadata name="AccumulationRegister.ПлановыеЧасыОбучения.Dimension.УчебнаяГруппа" id="700469d1-d3d3-4cf1-8873-7c7c0a718f4a"/>
+			<Metadata name="AccumulationRegister.ПлановыеЧасыОбучения.Resource.ЧасовПоПлану" id="b00c192e-d188-46a1-b516-783d5a6573d1"/>
+			<Metadata name="AccumulationRegister.ПлановыеЧасыОбучения.Dimension.Дисциплина" id="c32e22a0-1912-4fcd-9889-b308f941ff69"/>
+			<Metadata name="AccumulationRegister.ПлановыеЧасыОбучения.Dimension.Семестр" id="ebac3eb2-55d4-4e25-aa24-20f2c79303de"/>
+			<Metadata name="AccumulationRegister.ПлановыеЧасыОбучения.Dimension.ВидЗанятия" id="f1b8fe54-fbba-4680-8243-cd28a618f16a"/>
+		</Metadata>
+		<Metadata name="AccumulationRegister.ПосещаемостьОбучающихся" id="60ac5220-6f34-4c2d-9119-f54f360a3fa3" configVersion="a34a392280d3f945af3b9d0a394125b800000000">
+			<Metadata name="AccumulationRegister.ПосещаемостьОбучающихся.Resource.ЧасыПропущеноВсего" id="00e8ef0b-cbb3-451e-b677-671f8b991fe7"/>
+			<Metadata name="AccumulationRegister.ПосещаемостьОбучающихся.Dimension.Обучающийся" id="550dc4af-8771-4088-84b6-982461f42ca1"/>
+			<Metadata name="AccumulationRegister.ПосещаемостьОбучающихся.Dimension.ВидЗанятия" id="6334d22d-9474-4b74-893f-5f8863d2db65"/>
+			<Metadata name="AccumulationRegister.ПосещаемостьОбучающихся.Dimension.УчебнаяГруппа" id="688f48d7-2415-48d7-89ac-51cfbe917edd"/>
+			<Metadata name="AccumulationRegister.ПосещаемостьОбучающихся.Dimension.Преподаватель" id="78b37be9-8a62-46f6-a3c7-9f2116c1cb5b"/>
+			<Metadata name="AccumulationRegister.ПосещаемостьОбучающихся.Dimension.Дисциплина" id="8bb243f0-097a-46c4-9440-f9b0935c2721"/>
+			<Metadata name="AccumulationRegister.ПосещаемостьОбучающихся.Resource.ЧасыПосещено" id="c09d7d7a-2f88-46b0-915c-e5af1ba7e454"/>
+			<Metadata name="AccumulationRegister.ПосещаемостьОбучающихся.Resource.ЧасыОпозданий" id="d28004cc-8fc5-4085-b403-ed61f5e24ca6"/>
+		</Metadata>
+		<Metadata name="AccumulationRegister.ПропускиПоПричинам" id="7225d0e1-271d-44fe-863a-36ca8da9c008" configVersion="9770eba49b054449ba6185b0deb8162100000000">
+			<Metadata name="AccumulationRegister.ПропускиПоПричинам.Dimension.Дисциплина" id="3ac17703-fbe0-4e43-a1c6-085e74fcecfc"/>
+			<Metadata name="AccumulationRegister.ПропускиПоПричинам.Dimension.Обучающийся" id="78e569be-6475-4f05-b1dd-e803cc7de581"/>
+			<Metadata name="AccumulationRegister.ПропускиПоПричинам.Resource.ЧасыПропусков" id="c7c8517c-5ece-4c71-b305-14a272329df6"/>
+			<Metadata name="AccumulationRegister.ПропускиПоПричинам.Dimension.Уважительная" id="d54be1f2-5336-48ff-9818-e08006a6c13e"/>
+			<Metadata name="AccumulationRegister.ПропускиПоПричинам.Dimension.УчебнаяГруппа" id="dc4a74b9-bc42-4692-b762-71c6da5054cb"/>
+			<Metadata name="AccumulationRegister.ПропускиПоПричинам.Dimension.ПричинаПропуска" id="fb918ceb-04b3-4301-baad-fa6b2fad8077"/>
+		</Metadata>
 		<Metadata name="Catalog.Аудитории" id="c02a0180-15d8-4d55-8986-b3aecddcfa6c" configVersion="ff362c9298da454f92f137f236d38e4d00000000">
 			<Metadata name="Catalog.Аудитории.Attribute.Вместимость" id="227a31d8-36b6-4b9f-9912-b27e8616d14f"/>
 			<Metadata name="Catalog.Аудитории.Attribute.Корпус" id="a0911391-67b1-4e52-8090-1fe74d25561c"/>
@@ -71,7 +102,7 @@
 			<Metadata name="Catalog.ШаблоныУведомлений.Attribute.ТекстШаблона" id="05bf8405-dbef-4956-b507-b6d7eb5dee54"/>
 			<Metadata name="Catalog.ШаблоныУведомлений.Attribute.ТемаПисьма" id="86934ef7-c8f5-4654-aa92-51f88dc797f4"/>
 		</Metadata>
-		<Metadata name="Configuration.ЮдинДВ_70188338" id="2f289f27-841c-4d83-be72-b037cc4ed011" configVersion="afed0100537cf2448d4230bead37255400000000"/>
+		<Metadata name="Configuration.ЮдинДВ_70188338" id="2f289f27-841c-4d83-be72-b037cc4ed011" configVersion="86184ec4c8bf604786b957a6c5b2ec5500000000"/>
 		<Metadata name="Constant.НаименованиеУчебногоЗаведения" id="d9d4e684-8844-448d-8b70-f0101659c624" configVersion="b4676f31d9e9124a95b5bbcb03ddef5500000000"/>
 		<Metadata name="Constant.ПорогНеуважительныхПропусковВЧасах" id="2a12c904-d890-46d3-91d7-14e07e8f0bca" configVersion="a25913b9952aa44881bc92e3293e1a8700000000"/>
 		<Metadata name="Constant.ПродолжительностьАкадемическогоЧаса" id="b41d6987-de57-4b23-abd0-704a92788bbf" configVersion="23860c19956fc14a99bb77cabcf9c98700000000"/>
@@ -98,9 +129,9 @@
 		</Metadata>
 		<Metadata name="Language.Русский" id="79e11c29-9819-472b-b32b-eb2dd60295f9" configVersion="a635e128c5940e42979f89ec13c09a8a00000000"/>
 		<Metadata name="Subsystem.АналитикаИАдминистрирование" id="787b7649-8fac-4a97-86e6-8149ef714ba6" configVersion="daab14d8473d2d418ae12b2cd7b5982500000000"/>
-		<Metadata name="Subsystem.КонтрольИСправки" id="8787b005-643a-491b-87e3-858060a7653c" configVersion="cf8b7767671a1f4a94811fa459db082300000000"/>
+		<Metadata name="Subsystem.КонтрольИСправки" id="8787b005-643a-491b-87e3-858060a7653c" configVersion="3a311427f8632545901cee4008419c8b00000000"/>
 		<Metadata name="Subsystem.НСИИСтруктураВуза" id="df5560fe-221c-43c7-b08f-f6272ab952d8" configVersion="afe1d35412216047b5c6790b79ff2fda00000000"/>
-		<Metadata name="Subsystem.УчебныйПроцесс" id="327ea128-5286-40d5-9194-62e229b004dd" configVersion="9b4d2ca6b724184698b92210fe9e52f000000000"/>
-		<Metadata name="Subsystem.УчетПосещаемости" id="54fc8d00-3db2-49d9-9b55-5025f4de7a50" configVersion="f08d93a25ba65c4d9d78ac6b998a133300000000"/>
+		<Metadata name="Subsystem.УчебныйПроцесс" id="327ea128-5286-40d5-9194-62e229b004dd" configVersion="1fdb3afc2b70384fbd2c40aa8573e8f100000000"/>
+		<Metadata name="Subsystem.УчетПосещаемости" id="54fc8d00-3db2-49d9-9b55-5025f4de7a50" configVersion="5de7e15cd897f14fa6361122753154d700000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

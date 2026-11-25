@@ -23,6 +23,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.УчебныеПланы</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ВидыЗанятий</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.СеткаЗвонков</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ПлановыеЧасыОбучения</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

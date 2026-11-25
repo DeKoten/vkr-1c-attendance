@@ -19,6 +19,8 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ПричиныПропусков</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ШаблоныУведомлений</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ТипыОправдательныхДокументов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ПропускиПоПричинам</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ОтработкаПропусков</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
