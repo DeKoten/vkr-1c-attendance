@@ -290,6 +290,7 @@
 			<Enum>ФормыОбучения</Enum>
 			<Enum>СтатусыОбучающегося</Enum>
 			<Enum>СтатусыСправки</Enum>
+			<DataProcessor>ГенерацияВедомостейПоРасписанию</DataProcessor>
 			<InformationRegister>СостояниеОбучающихся</InformationRegister>
 			<InformationRegister>РасписаниеЗанятий</InformationRegister>
 			<InformationRegister>ОправдательныеДокументы</InformationRegister>
