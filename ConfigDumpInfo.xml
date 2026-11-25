@@ -121,7 +121,7 @@
 		</Metadata>
 		<Metadata name="CommonModule.УчетПосещаемостиСервер" id="5754384a-9e5b-41cf-a586-100013e6c75b" configVersion="5cda3bed5c17c1478ad886d6ead29ada00000000"/>
 		<Metadata name="CommonModule.УчетПосещаемостиСервер.Module" id="5754384a-9e5b-41cf-a586-100013e6c75b.0" configVersion="100f45e2d3ed5941ba938c27b243438e00000000"/>
-		<Metadata name="Configuration.ЮдинДВ_70188338" id="2f289f27-841c-4d83-be72-b037cc4ed011" configVersion="9d01a52bf5cf8a44be1c97dd3c824d2600000000"/>
+		<Metadata name="Configuration.ЮдинДВ_70188338" id="2f289f27-841c-4d83-be72-b037cc4ed011" configVersion="e5de673a5d2c7f479c2ee32ffd62aa2d00000000"/>
 		<Metadata name="Constant.НаименованиеУчебногоЗаведения" id="d9d4e684-8844-448d-8b70-f0101659c624" configVersion="b4676f31d9e9124a95b5bbcb03ddef5500000000"/>
 		<Metadata name="Constant.ПорогНеуважительныхПропусковВЧасах" id="2a12c904-d890-46d3-91d7-14e07e8f0bca" configVersion="a25913b9952aa44881bc92e3293e1a8700000000"/>
 		<Metadata name="Constant.ПродолжительностьАкадемическогоЧаса" id="b41d6987-de57-4b23-abd0-704a92788bbf" configVersion="23860c19956fc14a99bb77cabcf9c98700000000"/>
@@ -132,6 +132,9 @@
 		</Metadata>
 		<Metadata name="DataProcessor.ГенерацияВедомостейПоРасписанию.Form.Форма" id="0a25bbbe-de0b-42ea-a258-3efbf566ec64" configVersion="bb30429ad6d5ae42962a84d821bb502a00000000"/>
 		<Metadata name="DataProcessor.ГенерацияВедомостейПоРасписанию.Form.Форма.Form" id="0a25bbbe-de0b-42ea-a258-3efbf566ec64.0" configVersion="f25757e6f7a83f4c882ebc29c17598aa00000000"/>
+		<Metadata name="DataProcessor.ЗаполнениеТестовымиДанными" id="bb993a89-6518-4939-a67b-ccb7ef5c4055" configVersion="5ee17c289a132c4c9954e9d1c7e01eff00000000"/>
+		<Metadata name="DataProcessor.ЗаполнениеТестовымиДанными.Form.Форма" id="a5ee76f3-79af-4f18-a51a-45442f4c62c0" configVersion="a1efa7bf12f6cf4ea525e50b6af49c5600000000"/>
+		<Metadata name="DataProcessor.ЗаполнениеТестовымиДанными.Form.Форма.Form" id="a5ee76f3-79af-4f18-a51a-45442f4c62c0.0" configVersion="6e2215da8742b3478a822beee6f0f28000000000"/>
 		<Metadata name="Document.АктКонтроляПосещаемости" id="bc4561f3-6b02-4577-a925-a7894ee38b41" configVersion="abf005e43575e649a49153475769d31000000000">
 			<Metadata name="Document.АктКонтроляПосещаемости.Attribute.ВсегоПоСписку" id="088e45c7-f900-4e7d-a1ed-b7ac03bb2150"/>
 			<Metadata name="Document.АктКонтроляПосещаемости.Attribute.УчебнаяГруппа" id="0d719f2f-4b39-4d93-98ec-2bd092d8dbdf"/>
@@ -331,7 +334,7 @@
 		<Metadata name="Role.Преподаватель.Rights" id="ed3c84fe-0e7c-4286-87be-e386a33f5a13.0" configVersion="8da92b808d972a45b3e072bcb761100100000000"/>
 		<Metadata name="Role.СтаростаОбучающийся" id="dbb7e618-f426-428b-9750-16f9ae218449" configVersion="2f9b6e61d106e749964dc6e3647533a400000000"/>
 		<Metadata name="Role.СтаростаОбучающийся.Rights" id="dbb7e618-f426-428b-9750-16f9ae218449.0" configVersion="6498a801f2a93443a4d64392b0bbb1b200000000"/>
-		<Metadata name="Subsystem.АналитикаИАдминистрирование" id="787b7649-8fac-4a97-86e6-8149ef714ba6" configVersion="18a28ca78f9716488034a0114712874b00000000"/>
+		<Metadata name="Subsystem.АналитикаИАдминистрирование" id="787b7649-8fac-4a97-86e6-8149ef714ba6" configVersion="9ce52a01a348004493498eda8b22c73a00000000"/>
 		<Metadata name="Subsystem.КонтрольИСправки" id="8787b005-643a-491b-87e3-858060a7653c" configVersion="d62fe9662c595748b09f07199118d2b800000000"/>
 		<Metadata name="Subsystem.НСИИСтруктураВуза" id="df5560fe-221c-43c7-b08f-f6272ab952d8" configVersion="9a834e1c6b2dbf4eb44b25de8271021e00000000"/>
 		<Metadata name="Subsystem.УчебныйПроцесс" id="327ea128-5286-40d5-9194-62e229b004dd" configVersion="3383a81edbd73d4c8669138f064c8f9a00000000"/>

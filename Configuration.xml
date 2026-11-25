@@ -300,6 +300,7 @@
 			<Report>КонтрольОтработкиПропусков</Report>
 			<Report>ЖурналОправдательныхДокументов</Report>
 			<DataProcessor>ГенерацияВедомостейПоРасписанию</DataProcessor>
+			<DataProcessor>ЗаполнениеТестовымиДанными</DataProcessor>
 			<InformationRegister>СостояниеОбучающихся</InformationRegister>
 			<InformationRegister>РасписаниеЗанятий</InformationRegister>
 			<InformationRegister>ОправдательныеДокументы</InformationRegister>
