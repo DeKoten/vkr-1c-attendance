@@ -317,20 +317,20 @@
 		</Metadata>
 		<Metadata name="Language.Русский" id="79e11c29-9819-472b-b32b-eb2dd60295f9" configVersion="a635e128c5940e42979f89ec13c09a8a00000000"/>
 		<Metadata name="Report.АнализПосещаемостиПоКафедрам" id="d326ece0-3866-40a4-baa9-1977560cdd53" configVersion="a79636763e9a2a488ed5215c7105d11a00000000"/>
-		<Metadata name="Report.АнализПосещаемостиПоКафедрам.Template.ОсновнаяСхемаКомпоновкиДанных" id="7691fc4e-f48a-410f-b356-c22b6e7d04f6" configVersion="2cffc9ffb147614f9b8fe3055e126ba500000000"/>
-		<Metadata name="Report.АнализПосещаемостиПоКафедрам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="7691fc4e-f48a-410f-b356-c22b6e7d04f6.0" configVersion="73fea47e78e143429c7f721b1543e39100000000"/>
+		<Metadata name="Report.АнализПосещаемостиПоКафедрам.Template.ОсновнаяСхемаКомпоновкиДанных" id="7691fc4e-f48a-410f-b356-c22b6e7d04f6" configVersion="c074cf9afd7d664cb71b1eb03f005d0f00000000"/>
+		<Metadata name="Report.АнализПосещаемостиПоКафедрам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="7691fc4e-f48a-410f-b356-c22b6e7d04f6.0" configVersion="fbf549bf5cfc3744b5801c8da18b4c4b00000000"/>
 		<Metadata name="Report.ЖурналОправдательныхДокументов" id="6e9168e2-eefd-435e-849f-066e4447ee09" configVersion="b416be2f4c1464419bdf92353662001c00000000"/>
-		<Metadata name="Report.ЖурналОправдательныхДокументов.Template.ОсновнаяСхемаКомпоновкиДанных" id="0b24396e-2f8d-4958-8a66-15f6f5613ca5" configVersion="ac91a6201c6ecd4eadb296b6d4511a0100000000"/>
-		<Metadata name="Report.ЖурналОправдательныхДокументов.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="0b24396e-2f8d-4958-8a66-15f6f5613ca5.0" configVersion="26077d10ff37a34282fa5e75026a426c00000000"/>
+		<Metadata name="Report.ЖурналОправдательныхДокументов.Template.ОсновнаяСхемаКомпоновкиДанных" id="0b24396e-2f8d-4958-8a66-15f6f5613ca5" configVersion="a1745d6996df8041b35d9a68a4aa4bcd00000000"/>
+		<Metadata name="Report.ЖурналОправдательныхДокументов.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="0b24396e-2f8d-4958-8a66-15f6f5613ca5.0" configVersion="a4f9c77c918e3d4db032d28b60de44e200000000"/>
 		<Metadata name="Report.КонтрольОтработкиПропусков" id="3f6eda58-3ed0-45e7-b931-d551640a45db" configVersion="4913a402f2b7284e91c8c8c58e7743d100000000"/>
-		<Metadata name="Report.КонтрольОтработкиПропусков.Template.ОсновнаяСхемаКомпоновкиДанных" id="0d52c45f-3f2e-47f7-a02d-f9e9d54fab82" configVersion="751b550c589aeb48b9b395492a76b43900000000"/>
-		<Metadata name="Report.КонтрольОтработкиПропусков.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="0d52c45f-3f2e-47f7-a02d-f9e9d54fab82.0" configVersion="75f1a4ac6f578e4b9eb6ee241528c1ba00000000"/>
+		<Metadata name="Report.КонтрольОтработкиПропусков.Template.ОсновнаяСхемаКомпоновкиДанных" id="0d52c45f-3f2e-47f7-a02d-f9e9d54fab82" configVersion="432924e7a0d51b4185539bbaf4260e1e00000000"/>
+		<Metadata name="Report.КонтрольОтработкиПропусков.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="0d52c45f-3f2e-47f7-a02d-f9e9d54fab82.0" configVersion="f61656963486b4489227c56b9fc90d3200000000"/>
 		<Metadata name="Report.РейтингПропусковИГруппаРиска" id="6227cffe-280e-43e1-bc63-9a046cc0b1ea" configVersion="051cd44373702544be5f1c1b96f6d0a200000000"/>
-		<Metadata name="Report.РейтингПропусковИГруппаРиска.Template.ОсновнаяСхемаКомпоновкиДанных" id="bed529e6-4e83-41fe-9e4a-dfb9815279b9" configVersion="fd4cdfa20f36554488d616e7b0eb0a9100000000"/>
-		<Metadata name="Report.РейтингПропусковИГруппаРиска.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="bed529e6-4e83-41fe-9e4a-dfb9815279b9.0" configVersion="77af81506889674e9b8cb8e31767cbf800000000"/>
+		<Metadata name="Report.РейтингПропусковИГруппаРиска.Template.ОсновнаяСхемаКомпоновкиДанных" id="bed529e6-4e83-41fe-9e4a-dfb9815279b9" configVersion="7819e4c3b11275408b543e7891dfa5f300000000"/>
+		<Metadata name="Report.РейтингПропусковИГруппаРиска.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="bed529e6-4e83-41fe-9e4a-dfb9815279b9.0" configVersion="9e39419f9f5d1748b5afeb98bf5b52fa00000000"/>
 		<Metadata name="Report.СводнаяВедомостьПосещаемостиГруппы" id="49fe954a-93f6-4d91-954f-1c9e4ef48494" configVersion="53c6498b93968a40ae6797fcad993dec00000000"/>
-		<Metadata name="Report.СводнаяВедомостьПосещаемостиГруппы.Template.ОсновнаяСхемаКомпоновкиДанных" id="5d467f58-5639-4be7-8e09-09c2ecd4fe79" configVersion="5743691fb6d2b047acd540d64c75e64800000000"/>
-		<Metadata name="Report.СводнаяВедомостьПосещаемостиГруппы.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="5d467f58-5639-4be7-8e09-09c2ecd4fe79.0" configVersion="05dcb19a69e2954492f70863c8a8539700000000"/>
+		<Metadata name="Report.СводнаяВедомостьПосещаемостиГруппы.Template.ОсновнаяСхемаКомпоновкиДанных" id="5d467f58-5639-4be7-8e09-09c2ecd4fe79" configVersion="b7fc98295ec59146a724a625a03d29ba00000000"/>
+		<Metadata name="Report.СводнаяВедомостьПосещаемостиГруппы.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="5d467f58-5639-4be7-8e09-09c2ecd4fe79.0" configVersion="d0c1a934e423704498ee9bb4ecff171500000000"/>
 		<Metadata name="Role.АдминистраторСистемы" id="c74a8cb3-15d4-4f7c-a0c6-ad028fdaaf02" configVersion="6ee097fb1d623547bd38b6641f377c1500000000"/>
 		<Metadata name="Role.АдминистраторСистемы.Rights" id="c74a8cb3-15d4-4f7c-a0c6-ad028fdaaf02.0" configVersion="6af3affef191bf488834f8af29aa0ceb00000000"/>
 		<Metadata name="Role.МетодистДеканата" id="c8dc6508-ec4f-483e-bad4-21617c68fb0c" configVersion="ae3f64371e91a344ab923474146ee0e200000000"/>
