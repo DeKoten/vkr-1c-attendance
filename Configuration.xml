@@ -292,6 +292,7 @@
 			<Enum>СтатусыСправки</Enum>
 			<Report>СводнаяВедомостьПосещаемостиГруппы</Report>
 			<Report>РейтингПропусковИГруппаРиска</Report>
+			<Report>АнализПосещаемостиПоКафедрам</Report>
 			<DataProcessor>ГенерацияВедомостейПоРасписанию</DataProcessor>
 			<InformationRegister>СостояниеОбучающихся</InformationRegister>
 			<InformationRegister>РасписаниеЗанятий</InformationRegister>
