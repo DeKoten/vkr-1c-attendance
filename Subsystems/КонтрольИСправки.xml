@@ -21,6 +21,8 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ТипыОправдательныхДокументов</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ПропускиПоПричинам</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ОтработкаПропусков</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ОправдательныеДокументы</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ДисциплинарныеМеры</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

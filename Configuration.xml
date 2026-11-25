@@ -278,6 +278,10 @@
 			<Enum>ФормыОбучения</Enum>
 			<Enum>СтатусыОбучающегося</Enum>
 			<Enum>СтатусыСправки</Enum>
+			<InformationRegister>СостояниеОбучающихся</InformationRegister>
+			<InformationRegister>РасписаниеЗанятий</InformationRegister>
+			<InformationRegister>ОправдательныеДокументы</InformationRegister>
+			<InformationRegister>ДисциплинарныеМеры</InformationRegister>
 			<AccumulationRegister>ПосещаемостьОбучающихся</AccumulationRegister>
 			<AccumulationRegister>ПропускиПоПричинам</AccumulationRegister>
 			<AccumulationRegister>ПлановыеЧасыОбучения</AccumulationRegister>
