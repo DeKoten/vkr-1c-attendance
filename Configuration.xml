@@ -274,6 +274,9 @@
 			<Catalog>ПричиныПропусков</Catalog>
 			<Catalog>ШаблоныУведомлений</Catalog>
 			<Catalog>ТипыОправдательныхДокументов</Catalog>
+			<Document>ЗачислениеОбучающихся</Document>
+			<Document>ПереводОтчислениеОбучающихся</Document>
+			<Document>УтверждениеУчебногоПлана</Document>
 			<Enum>СтатусыПосещаемости</Enum>
 			<Enum>ФормыОбучения</Enum>
 			<Enum>СтатусыОбучающегося</Enum>
