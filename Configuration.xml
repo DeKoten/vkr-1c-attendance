@@ -250,6 +250,34 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>НСИИСтруктураВуза</Subsystem>
+			<Subsystem>УчебныйПроцесс</Subsystem>
+			<Subsystem>УчетПосещаемости</Subsystem>
+			<Subsystem>КонтрольИСправки</Subsystem>
+			<Subsystem>АналитикаИАдминистрирование</Subsystem>
+			<Constant>НаименованиеУчебногоЗаведения</Constant>
+			<Constant>ПорогНеуважительныхПропусковВЧасах</Constant>
+			<Constant>ПродолжительностьАкадемическогоЧаса</Constant>
+			<Catalog>СтруктурныеПодразделения</Catalog>
+			<Catalog>Аудитории</Catalog>
+			<Catalog>Дисциплины</Catalog>
+			<Catalog>УчебныеГруппы</Catalog>
+			<Catalog>ФизическиеЛица</Catalog>
+			<Catalog>СотрудникиДеканата</Catalog>
+			<Catalog>Преподаватели</Catalog>
+			<Catalog>Обучающиеся</Catalog>
+			<Catalog>НаправленияПодготовки</Catalog>
+			<Catalog>Семестры</Catalog>
+			<Catalog>УчебныеПланы</Catalog>
+			<Catalog>ВидыЗанятий</Catalog>
+			<Catalog>СеткаЗвонков</Catalog>
+			<Catalog>ПричиныПропусков</Catalog>
+			<Catalog>ШаблоныУведомлений</Catalog>
+			<Catalog>ТипыОправдательныхДокументов</Catalog>
+			<Enum>СтатусыПосещаемости</Enum>
+			<Enum>ФормыОбучения</Enum>
+			<Enum>СтатусыОбучающегося</Enum>
+			<Enum>СтатусыСправки</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
