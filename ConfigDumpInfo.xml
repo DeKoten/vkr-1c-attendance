@@ -76,7 +76,9 @@
 			<Metadata name="Catalog.Преподаватели.Attribute.ФизЛицо" id="e084203e-bc57-4ff1-bc05-75721cf882a1"/>
 			<Metadata name="Catalog.Преподаватели.Attribute.Кафедра" id="ffc71387-0d55-41ef-8d6b-eb7cfd419026"/>
 		</Metadata>
-		<Metadata name="Catalog.ПричиныПропусков" id="ed4b3bc6-bd77-4ff4-999a-2c84d251a7e1" configVersion="8b9f5616899472428bf46e0f3816ac0e00000000">
+		<Metadata name="Catalog.ПричиныПропусков" id="ed4b3bc6-bd77-4ff4-999a-2c84d251a7e1" configVersion="2e3b243ecf5d924497f1c60ef59638ec00000000">
+			<Metadata name="Catalog.ПричиныПропусков.Attribute.Уважительная" id="b9bdaaf0-95d4-4b90-af9a-c53ce417c632"/>
+			<Metadata name="Catalog.ПричиныПропусков.Attribute.ТребуетПодтверждающийДокумент" id="ce6e9347-9966-4602-aac8-2f8585899796"/>
 			<Metadata name="Catalog.ПричиныПропусков.Attribute.СрокПодачиВДнях" id="f9657ab8-b847-4f3b-8500-7d6d7a8b8689"/>
 		</Metadata>
 		<Metadata name="Catalog.Семестры" id="8d4a0284-ca0a-4b54-b6ab-3a8e9c1d4f28" configVersion="0e6c5d056035894ea38d34c62744253b00000000">
