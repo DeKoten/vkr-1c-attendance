@@ -329,8 +329,8 @@
 		<Metadata name="Report.РейтингПропусковИГруппаРиска.Template.ОсновнаяСхемаКомпоновкиДанных" id="bed529e6-4e83-41fe-9e4a-dfb9815279b9" configVersion="7819e4c3b11275408b543e7891dfa5f300000000"/>
 		<Metadata name="Report.РейтингПропусковИГруппаРиска.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="bed529e6-4e83-41fe-9e4a-dfb9815279b9.0" configVersion="9e39419f9f5d1748b5afeb98bf5b52fa00000000"/>
 		<Metadata name="Report.СводнаяВедомостьПосещаемостиГруппы" id="49fe954a-93f6-4d91-954f-1c9e4ef48494" configVersion="53c6498b93968a40ae6797fcad993dec00000000"/>
-		<Metadata name="Report.СводнаяВедомостьПосещаемостиГруппы.Template.ОсновнаяСхемаКомпоновкиДанных" id="5d467f58-5639-4be7-8e09-09c2ecd4fe79" configVersion="b7fc98295ec59146a724a625a03d29ba00000000"/>
-		<Metadata name="Report.СводнаяВедомостьПосещаемостиГруппы.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="5d467f58-5639-4be7-8e09-09c2ecd4fe79.0" configVersion="d0c1a934e423704498ee9bb4ecff171500000000"/>
+		<Metadata name="Report.СводнаяВедомостьПосещаемостиГруппы.Template.ОсновнаяСхемаКомпоновкиДанных" id="5d467f58-5639-4be7-8e09-09c2ecd4fe79" configVersion="189a25bae34a4e4fb900514e382ee1f300000000"/>
+		<Metadata name="Report.СводнаяВедомостьПосещаемостиГруппы.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="5d467f58-5639-4be7-8e09-09c2ecd4fe79.0" configVersion="ea28c5bc9a360442a419b6195813311900000000"/>
 		<Metadata name="Role.АдминистраторСистемы" id="c74a8cb3-15d4-4f7c-a0c6-ad028fdaaf02" configVersion="6ee097fb1d623547bd38b6641f377c1500000000"/>
 		<Metadata name="Role.АдминистраторСистемы.Rights" id="c74a8cb3-15d4-4f7c-a0c6-ad028fdaaf02.0" configVersion="6af3affef191bf488834f8af29aa0ceb00000000"/>
 		<Metadata name="Role.МетодистДеканата" id="c8dc6508-ec4f-483e-bad4-21617c68fb0c" configVersion="ae3f64371e91a344ab923474146ee0e200000000"/>
