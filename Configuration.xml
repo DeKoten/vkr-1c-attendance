@@ -255,6 +255,10 @@
 			<Subsystem>УчетПосещаемости</Subsystem>
 			<Subsystem>КонтрольИСправки</Subsystem>
 			<Subsystem>АналитикаИАдминистрирование</Subsystem>
+			<Role>АдминистраторСистемы</Role>
+			<Role>МетодистДеканата</Role>
+			<Role>Преподаватель</Role>
+			<Role>СтаростаОбучающийся</Role>
 			<CommonModule>УчетПосещаемостиСервер</CommonModule>
 			<Constant>НаименованиеУчебногоЗаведения</Constant>
 			<Constant>ПорогНеуважительныхПропусковВЧасах</Constant>
