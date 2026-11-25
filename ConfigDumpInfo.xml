@@ -102,7 +102,7 @@
 			<Metadata name="Catalog.ШаблоныУведомлений.Attribute.ТекстШаблона" id="05bf8405-dbef-4956-b507-b6d7eb5dee54"/>
 			<Metadata name="Catalog.ШаблоныУведомлений.Attribute.ТемаПисьма" id="86934ef7-c8f5-4654-aa92-51f88dc797f4"/>
 		</Metadata>
-		<Metadata name="Configuration.ЮдинДВ_70188338" id="2f289f27-841c-4d83-be72-b037cc4ed011" configVersion="aafd25cc1f34f54c9f7c533ff452e32f00000000"/>
+		<Metadata name="Configuration.ЮдинДВ_70188338" id="2f289f27-841c-4d83-be72-b037cc4ed011" configVersion="ca738c51e63c6747a791b98cd7f0a04500000000"/>
 		<Metadata name="Constant.НаименованиеУчебногоЗаведения" id="d9d4e684-8844-448d-8b70-f0101659c624" configVersion="b4676f31d9e9124a95b5bbcb03ddef5500000000"/>
 		<Metadata name="Constant.ПорогНеуважительныхПропусковВЧасах" id="2a12c904-d890-46d3-91d7-14e07e8f0bca" configVersion="a25913b9952aa44881bc92e3293e1a8700000000"/>
 		<Metadata name="Constant.ПродолжительностьАкадемическогоЧаса" id="b41d6987-de57-4b23-abd0-704a92788bbf" configVersion="23860c19956fc14a99bb77cabcf9c98700000000"/>
@@ -116,6 +116,33 @@
 			<Metadata name="Document.ЗачислениеОбучающихся.Attribute.УчебнаяГруппа" id="a49f3550-f3fd-4124-a4a7-00c39056c5ab"/>
 		</Metadata>
 		<Metadata name="Document.ЗачислениеОбучающихся.ObjectModule" id="255d294e-b066-471c-a1b2-5fd98dbe2aa8.0" configVersion="83dc97a5f73bc34f803f3445af36d6d600000000"/>
+		<Metadata name="Document.ИзменениеОтменаЗанятий" id="694007a1-15b6-4177-a6a5-4e3d7fb66634" configVersion="e58a4d1bd80a1946b070e24dfae3f73800000000">
+			<Metadata name="Document.ИзменениеОтменаЗанятий.Attribute.Ответственный" id="56baae4e-e968-45c9-8923-1db0d767aa91"/>
+			<Metadata name="Document.ИзменениеОтменаЗанятий.TabularSection.Изменения.Attribute.ДатаЗанятия" id="58c1ffb5-e199-49df-8757-e04de3c94ee4"/>
+			<Metadata name="Document.ИзменениеОтменаЗанятий.TabularSection.Изменения.Attribute.Преподаватель" id="6c4b7b8a-82fd-4cf4-9e86-6b4d421a6038"/>
+			<Metadata name="Document.ИзменениеОтменаЗанятий.Attribute.ПричинаИзменения" id="71ec3059-5575-4ad6-809c-eb6e61ad4ea3"/>
+			<Metadata name="Document.ИзменениеОтменаЗанятий.TabularSection.Изменения.Attribute.Дисциплина" id="79631618-c6e2-4bfc-b0f1-b1352ecff1f8"/>
+			<Metadata name="Document.ИзменениеОтменаЗанятий.TabularSection.Изменения" id="7c1f8103-24e6-4f9f-91f6-92dc07c58950"/>
+			<Metadata name="Document.ИзменениеОтменаЗанятий.TabularSection.Изменения.Attribute.Отменено" id="7dbebd2a-2c5c-4b05-9960-f26b57185848"/>
+			<Metadata name="Document.ИзменениеОтменаЗанятий.TabularSection.Изменения.Attribute.Пара" id="baafa13f-3c4b-4e4e-ad1e-5287368498aa"/>
+			<Metadata name="Document.ИзменениеОтменаЗанятий.TabularSection.Изменения.Attribute.ВидЗанятия" id="bba92757-a4dc-4279-b6df-cecda9974d81"/>
+			<Metadata name="Document.ИзменениеОтменаЗанятий.TabularSection.Изменения.Attribute.Аудитория" id="dbbc5ce9-95a4-4983-b7f3-1cf9db2a1529"/>
+			<Metadata name="Document.ИзменениеОтменаЗанятий.Attribute.УчебнаяГруппа" id="dc5e0207-cc00-47f6-811e-e1ea5a65b0d6"/>
+		</Metadata>
+		<Metadata name="Document.ИзменениеОтменаЗанятий.ObjectModule" id="694007a1-15b6-4177-a6a5-4e3d7fb66634.0" configVersion="75c63f4f8b3dc44385c5d625d77362cd00000000"/>
+		<Metadata name="Document.НазначениеРасписанияЗанятий" id="6399ee7d-04c3-43de-a60a-dd6f25cc90dc" configVersion="7c15836082b93f4781db410218c689d700000000">
+			<Metadata name="Document.НазначениеРасписанияЗанятий.TabularSection.Занятия.Attribute.Дисциплина" id="06f3d3af-4345-45ba-8133-9f5d82c14b9e"/>
+			<Metadata name="Document.НазначениеРасписанияЗанятий.TabularSection.Занятия.Attribute.ВидЗанятия" id="25443553-61fc-4083-8340-7ca6713d840e"/>
+			<Metadata name="Document.НазначениеРасписанияЗанятий.Attribute.Ответственный" id="2a2d0d63-a1f4-4a27-9d07-0b188e044a7c"/>
+			<Metadata name="Document.НазначениеРасписанияЗанятий.Attribute.Семестр" id="432d0d0c-7660-4a51-9e04-b585307e987f"/>
+			<Metadata name="Document.НазначениеРасписанияЗанятий.TabularSection.Занятия.Attribute.ДатаЗанятия" id="6c683eab-5b6b-4a4d-b7d9-feb239773141"/>
+			<Metadata name="Document.НазначениеРасписанияЗанятий.TabularSection.Занятия.Attribute.Пара" id="6d08cdcc-23b3-4457-8bc9-cc739d7a1260"/>
+			<Metadata name="Document.НазначениеРасписанияЗанятий.TabularSection.Занятия.Attribute.Аудитория" id="8604f931-d715-4632-9e9b-e78d84a610b1"/>
+			<Metadata name="Document.НазначениеРасписанияЗанятий.Attribute.УчебнаяГруппа" id="b26c8031-606a-4918-a596-5f93bd3dc732"/>
+			<Metadata name="Document.НазначениеРасписанияЗанятий.TabularSection.Занятия.Attribute.Преподаватель" id="e334173b-a574-41d5-9a70-4bbbcac548b3"/>
+			<Metadata name="Document.НазначениеРасписанияЗанятий.TabularSection.Занятия" id="e93f5a13-5d8d-40e6-beaa-f39f6b2a7092"/>
+		</Metadata>
+		<Metadata name="Document.НазначениеРасписанияЗанятий.ObjectModule" id="6399ee7d-04c3-43de-a60a-dd6f25cc90dc.0" configVersion="e4052b4f9f7a284986a8b82e6b0dfe8600000000"/>
 		<Metadata name="Document.ПереводОтчислениеОбучающихся" id="34e243ed-f863-4dc1-840c-a58674fa2607" configVersion="0900365db0a87543951a5b5b00bc6cce00000000">
 			<Metadata name="Document.ПереводОтчислениеОбучающихся.Attribute.Ответственный" id="18071b9a-93c7-4260-96d9-f6e129ce7ca1"/>
 			<Metadata name="Document.ПереводОтчислениеОбучающихся.Attribute.НоваяГруппа" id="34623898-7864-4235-93e3-aec964463f79"/>
@@ -194,7 +221,7 @@
 		<Metadata name="Subsystem.АналитикаИАдминистрирование" id="787b7649-8fac-4a97-86e6-8149ef714ba6" configVersion="daab14d8473d2d418ae12b2cd7b5982500000000"/>
 		<Metadata name="Subsystem.КонтрольИСправки" id="8787b005-643a-491b-87e3-858060a7653c" configVersion="8f463d06d65ec9409c64747bfdb9040600000000"/>
 		<Metadata name="Subsystem.НСИИСтруктураВуза" id="df5560fe-221c-43c7-b08f-f6272ab952d8" configVersion="9a834e1c6b2dbf4eb44b25de8271021e00000000"/>
-		<Metadata name="Subsystem.УчебныйПроцесс" id="327ea128-5286-40d5-9194-62e229b004dd" configVersion="1448fdca8b3a9d49b60e895060c6fab000000000"/>
+		<Metadata name="Subsystem.УчебныйПроцесс" id="327ea128-5286-40d5-9194-62e229b004dd" configVersion="3383a81edbd73d4c8669138f064c8f9a00000000"/>
 		<Metadata name="Subsystem.УчетПосещаемости" id="54fc8d00-3db2-49d9-9b55-5025f4de7a50" configVersion="5de7e15cd897f14fa6361122753154d700000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

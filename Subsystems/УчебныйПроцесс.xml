@@ -26,6 +26,8 @@
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ПлановыеЧасыОбучения</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.РасписаниеЗанятий</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.УтверждениеУчебногоПлана</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.НазначениеРасписанияЗанятий</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ИзменениеОтменаЗанятий</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

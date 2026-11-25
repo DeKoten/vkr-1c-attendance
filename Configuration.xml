@@ -277,6 +277,8 @@
 			<Document>ЗачислениеОбучающихся</Document>
 			<Document>ПереводОтчислениеОбучающихся</Document>
 			<Document>УтверждениеУчебногоПлана</Document>
+			<Document>НазначениеРасписанияЗанятий</Document>
+			<Document>ИзменениеОтменаЗанятий</Document>
 			<Enum>СтатусыПосещаемости</Enum>
 			<Enum>ФормыОбучения</Enum>
 			<Enum>СтатусыОбучающегося</Enum>
