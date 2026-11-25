@@ -101,8 +101,10 @@
 		<Metadata name="Catalog.ТипыОправдательныхДокументов" id="681d4276-04ba-41e4-8a84-79fcaee17fa7" configVersion="6d2d48ab1b68dc43849bd1bea2bf399d00000000">
 			<Metadata name="Catalog.ТипыОправдательныхДокументов.Attribute.СрокПодачиВДнях" id="e7458184-b19c-436b-bec1-ad5aea3eac73"/>
 		</Metadata>
-		<Metadata name="Catalog.УчебныеГруппы" id="5a565a2f-ca6e-4598-8e97-24359dd46c63" configVersion="8dee055e1328724283f5b166b3240f0c00000000">
+		<Metadata name="Catalog.УчебныеГруппы" id="5a565a2f-ca6e-4598-8e97-24359dd46c63" configVersion="d98c5f90fe4ed245b119d80f631d272d00000000">
+			<Metadata name="Catalog.УчебныеГруппы.Attribute.ГодПоступления" id="028c8f13-5280-48a6-97bf-0da557532299"/>
 			<Metadata name="Catalog.УчебныеГруппы.Attribute.Подразделение" id="90af1198-7995-4f1e-8ca0-574fd684361c"/>
+			<Metadata name="Catalog.УчебныеГруппы.Attribute.Курс" id="a4f2adf4-4342-487b-9989-e1d83fb0a7a4"/>
 			<Metadata name="Catalog.УчебныеГруппы.Attribute.ФормаОбучения" id="d68c7c34-d358-4fde-a920-8c2cf802ab90"/>
 		</Metadata>
 		<Metadata name="Catalog.УчебныеПланы" id="da5fd4b9-6de5-4acf-83ca-c8aee4a8c758" configVersion="88f894834af68d418fe0babf54df1e3600000000">
