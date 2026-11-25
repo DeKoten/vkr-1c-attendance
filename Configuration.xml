@@ -294,6 +294,7 @@
 			<Report>РейтингПропусковИГруппаРиска</Report>
 			<Report>АнализПосещаемостиПоКафедрам</Report>
 			<Report>КонтрольОтработкиПропусков</Report>
+			<Report>ЖурналОправдательныхДокументов</Report>
 			<DataProcessor>ГенерацияВедомостейПоРасписанию</DataProcessor>
 			<InformationRegister>СостояниеОбучающихся</InformationRegister>
 			<InformationRegister>РасписаниеЗанятий</InformationRegister>

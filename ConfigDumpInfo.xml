@@ -104,7 +104,7 @@
 		</Metadata>
 		<Metadata name="CommonModule.УчетПосещаемостиСервер" id="5754384a-9e5b-41cf-a586-100013e6c75b" configVersion="5cda3bed5c17c1478ad886d6ead29ada00000000"/>
 		<Metadata name="CommonModule.УчетПосещаемостиСервер.Module" id="5754384a-9e5b-41cf-a586-100013e6c75b.0" configVersion="100f45e2d3ed5941ba938c27b243438e00000000"/>
-		<Metadata name="Configuration.ЮдинДВ_70188338" id="2f289f27-841c-4d83-be72-b037cc4ed011" configVersion="74880d9f0a137145977a90705a513a5700000000"/>
+		<Metadata name="Configuration.ЮдинДВ_70188338" id="2f289f27-841c-4d83-be72-b037cc4ed011" configVersion="f6006fcc6b3b6a4daf6d7fa2ce79168a00000000"/>
 		<Metadata name="Constant.НаименованиеУчебногоЗаведения" id="d9d4e684-8844-448d-8b70-f0101659c624" configVersion="b4676f31d9e9124a95b5bbcb03ddef5500000000"/>
 		<Metadata name="Constant.ПорогНеуважительныхПропусковВЧасах" id="2a12c904-d890-46d3-91d7-14e07e8f0bca" configVersion="a25913b9952aa44881bc92e3293e1a8700000000"/>
 		<Metadata name="Constant.ПродолжительностьАкадемическогоЧаса" id="b41d6987-de57-4b23-abd0-704a92788bbf" configVersion="23860c19956fc14a99bb77cabcf9c98700000000"/>
@@ -294,6 +294,9 @@
 		<Metadata name="Report.АнализПосещаемостиПоКафедрам" id="d326ece0-3866-40a4-baa9-1977560cdd53" configVersion="a79636763e9a2a488ed5215c7105d11a00000000"/>
 		<Metadata name="Report.АнализПосещаемостиПоКафедрам.Template.ОсновнаяСхемаКомпоновкиДанных" id="7691fc4e-f48a-410f-b356-c22b6e7d04f6" configVersion="2cffc9ffb147614f9b8fe3055e126ba500000000"/>
 		<Metadata name="Report.АнализПосещаемостиПоКафедрам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="7691fc4e-f48a-410f-b356-c22b6e7d04f6.0" configVersion="73fea47e78e143429c7f721b1543e39100000000"/>
+		<Metadata name="Report.ЖурналОправдательныхДокументов" id="6e9168e2-eefd-435e-849f-066e4447ee09" configVersion="b416be2f4c1464419bdf92353662001c00000000"/>
+		<Metadata name="Report.ЖурналОправдательныхДокументов.Template.ОсновнаяСхемаКомпоновкиДанных" id="0b24396e-2f8d-4958-8a66-15f6f5613ca5" configVersion="ac91a6201c6ecd4eadb296b6d4511a0100000000"/>
+		<Metadata name="Report.ЖурналОправдательныхДокументов.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="0b24396e-2f8d-4958-8a66-15f6f5613ca5.0" configVersion="26077d10ff37a34282fa5e75026a426c00000000"/>
 		<Metadata name="Report.КонтрольОтработкиПропусков" id="3f6eda58-3ed0-45e7-b931-d551640a45db" configVersion="4913a402f2b7284e91c8c8c58e7743d100000000"/>
 		<Metadata name="Report.КонтрольОтработкиПропусков.Template.ОсновнаяСхемаКомпоновкиДанных" id="0d52c45f-3f2e-47f7-a02d-f9e9d54fab82" configVersion="751b550c589aeb48b9b395492a76b43900000000"/>
 		<Metadata name="Report.КонтрольОтработкиПропусков.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="0d52c45f-3f2e-47f7-a02d-f9e9d54fab82.0" configVersion="75f1a4ac6f578e4b9eb6ee241528c1ba00000000"/>
@@ -304,7 +307,7 @@
 		<Metadata name="Report.СводнаяВедомостьПосещаемостиГруппы.Template.ОсновнаяСхемаКомпоновкиДанных" id="5d467f58-5639-4be7-8e09-09c2ecd4fe79" configVersion="5743691fb6d2b047acd540d64c75e64800000000"/>
 		<Metadata name="Report.СводнаяВедомостьПосещаемостиГруппы.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="5d467f58-5639-4be7-8e09-09c2ecd4fe79.0" configVersion="05dcb19a69e2954492f70863c8a8539700000000"/>
 		<Metadata name="Subsystem.АналитикаИАдминистрирование" id="787b7649-8fac-4a97-86e6-8149ef714ba6" configVersion="18a28ca78f9716488034a0114712874b00000000"/>
-		<Metadata name="Subsystem.КонтрольИСправки" id="8787b005-643a-491b-87e3-858060a7653c" configVersion="8647734a470d6e4491f21097e541616600000000"/>
+		<Metadata name="Subsystem.КонтрольИСправки" id="8787b005-643a-491b-87e3-858060a7653c" configVersion="106a065083ffe74e8c4f45b46055a02800000000"/>
 		<Metadata name="Subsystem.НСИИСтруктураВуза" id="df5560fe-221c-43c7-b08f-f6272ab952d8" configVersion="9a834e1c6b2dbf4eb44b25de8271021e00000000"/>
 		<Metadata name="Subsystem.УчебныйПроцесс" id="327ea128-5286-40d5-9194-62e229b004dd" configVersion="3383a81edbd73d4c8669138f064c8f9a00000000"/>
 		<Metadata name="Subsystem.УчетПосещаемости" id="54fc8d00-3db2-49d9-9b55-5025f4de7a50" configVersion="0893220ab9e9c7429eb01e63d2d2d54b00000000"/>

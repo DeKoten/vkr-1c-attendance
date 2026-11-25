@@ -29,6 +29,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Document.АктКонтроляПосещаемости</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.РейтингПропусковИГруппаРиска</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.КонтрольОтработкиПропусков</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.ЖурналОправдательныхДокументов</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
