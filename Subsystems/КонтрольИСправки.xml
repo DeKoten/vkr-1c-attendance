@@ -27,6 +27,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Document.ПредупреждениеОПропусках</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.ОтработкаПропущенныхЗанятий</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.АктКонтроляПосещаемости</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.РейтингПропусковИГруппаРиска</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
