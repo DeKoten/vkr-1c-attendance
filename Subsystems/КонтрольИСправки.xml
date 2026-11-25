@@ -32,6 +32,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ЖурналОправдательныхДокументов</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Task.ЗадачиДеканата</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">BusinessProcess.СогласованиеОправдательногоДокумента</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">BusinessProcess.РеагированиеНаПревышениеПропусков</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
