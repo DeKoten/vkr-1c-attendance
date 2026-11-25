@@ -23,6 +23,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ОтработкаПропусков</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ОправдательныеДокументы</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ДисциплинарныеМеры</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.РегистрацияОправдательногоДокумента</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
