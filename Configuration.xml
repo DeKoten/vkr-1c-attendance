@@ -255,6 +255,7 @@
 			<Subsystem>УчетПосещаемости</Subsystem>
 			<Subsystem>КонтрольИСправки</Subsystem>
 			<Subsystem>АналитикаИАдминистрирование</Subsystem>
+			<CommonModule>УчетПосещаемостиСервер</CommonModule>
 			<Constant>НаименованиеУчебногоЗаведения</Constant>
 			<Constant>ПорогНеуважительныхПропусковВЧасах</Constant>
 			<Constant>ПродолжительностьАкадемическогоЧаса</Constant>

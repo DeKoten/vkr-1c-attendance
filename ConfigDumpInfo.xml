@@ -102,7 +102,9 @@
 			<Metadata name="Catalog.ШаблоныУведомлений.Attribute.ТекстШаблона" id="05bf8405-dbef-4956-b507-b6d7eb5dee54"/>
 			<Metadata name="Catalog.ШаблоныУведомлений.Attribute.ТемаПисьма" id="86934ef7-c8f5-4654-aa92-51f88dc797f4"/>
 		</Metadata>
-		<Metadata name="Configuration.ЮдинДВ_70188338" id="2f289f27-841c-4d83-be72-b037cc4ed011" configVersion="7a1f6f86b7759947a760c9b643ecbb0000000000"/>
+		<Metadata name="CommonModule.УчетПосещаемостиСервер" id="5754384a-9e5b-41cf-a586-100013e6c75b" configVersion="5cda3bed5c17c1478ad886d6ead29ada00000000"/>
+		<Metadata name="CommonModule.УчетПосещаемостиСервер.Module" id="5754384a-9e5b-41cf-a586-100013e6c75b.0" configVersion="100f45e2d3ed5941ba938c27b243438e00000000"/>
+		<Metadata name="Configuration.ЮдинДВ_70188338" id="2f289f27-841c-4d83-be72-b037cc4ed011" configVersion="d59513bdc7cd914895999ff83c2f41b400000000"/>
 		<Metadata name="Constant.НаименованиеУчебногоЗаведения" id="d9d4e684-8844-448d-8b70-f0101659c624" configVersion="b4676f31d9e9124a95b5bbcb03ddef5500000000"/>
 		<Metadata name="Constant.ПорогНеуважительныхПропусковВЧасах" id="2a12c904-d890-46d3-91d7-14e07e8f0bca" configVersion="a25913b9952aa44881bc92e3293e1a8700000000"/>
 		<Metadata name="Constant.ПродолжительностьАкадемическогоЧаса" id="b41d6987-de57-4b23-abd0-704a92788bbf" configVersion="23860c19956fc14a99bb77cabcf9c98700000000"/>
