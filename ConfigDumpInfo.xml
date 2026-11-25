@@ -32,6 +32,14 @@
 			<Metadata name="AccumulationRegister.ПропускиПоПричинам.Dimension.УчебнаяГруппа" id="dc4a74b9-bc42-4692-b762-71c6da5054cb"/>
 			<Metadata name="AccumulationRegister.ПропускиПоПричинам.Dimension.ПричинаПропуска" id="fb918ceb-04b3-4301-baad-fa6b2fad8077"/>
 		</Metadata>
+		<Metadata name="BusinessProcess.СогласованиеОправдательногоДокумента" id="95cf6bba-fdaf-4c6f-80a9-3b2e239b6b52" configVersion="259f264c1423584293028bc76fd4f54100000000">
+			<Metadata name="BusinessProcess.СогласованиеОправдательногоДокумента.Attribute.ОтветственныйМетодист" id="0ffee92c-19c5-4c45-9e98-b73a2c79d1d2"/>
+			<Metadata name="BusinessProcess.СогласованиеОправдательногоДокумента.Attribute.ОправдательныйДокумент" id="1f459d01-ca69-4f82-bcda-d0aceffa36f2"/>
+			<Metadata name="BusinessProcess.СогласованиеОправдательногоДокумента.Attribute.Обучающийся" id="87e27cb4-94b4-454b-9ce7-6670c94c878b"/>
+			<Metadata name="BusinessProcess.СогласованиеОправдательногоДокумента.Attribute.РезультатПроверки" id="8b303271-9b17-4890-a963-901bacb7eadb"/>
+		</Metadata>
+		<Metadata name="BusinessProcess.СогласованиеОправдательногоДокумента.Flowchart" id="95cf6bba-fdaf-4c6f-80a9-3b2e239b6b52.7" configVersion="c537f66b034ec842bafd334cdefe9c0500000000"/>
+		<Metadata name="BusinessProcess.СогласованиеОправдательногоДокумента.ObjectModule" id="95cf6bba-fdaf-4c6f-80a9-3b2e239b6b52.6" configVersion="f9f801e530e66e439d43c742e9a3aef700000000"/>
 		<Metadata name="Catalog.Аудитории" id="c02a0180-15d8-4d55-8986-b3aecddcfa6c" configVersion="ff362c9298da454f92f137f236d38e4d00000000">
 			<Metadata name="Catalog.Аудитории.Attribute.Вместимость" id="227a31d8-36b6-4b9f-9912-b27e8616d14f"/>
 			<Metadata name="Catalog.Аудитории.Attribute.Корпус" id="a0911391-67b1-4e52-8090-1fe74d25561c"/>
@@ -104,7 +112,7 @@
 		</Metadata>
 		<Metadata name="CommonModule.УчетПосещаемостиСервер" id="5754384a-9e5b-41cf-a586-100013e6c75b" configVersion="5cda3bed5c17c1478ad886d6ead29ada00000000"/>
 		<Metadata name="CommonModule.УчетПосещаемостиСервер.Module" id="5754384a-9e5b-41cf-a586-100013e6c75b.0" configVersion="100f45e2d3ed5941ba938c27b243438e00000000"/>
-		<Metadata name="Configuration.ЮдинДВ_70188338" id="2f289f27-841c-4d83-be72-b037cc4ed011" configVersion="f6006fcc6b3b6a4daf6d7fa2ce79168a00000000"/>
+		<Metadata name="Configuration.ЮдинДВ_70188338" id="2f289f27-841c-4d83-be72-b037cc4ed011" configVersion="75db5889ddeeb84b9ec5885f67ef157b00000000"/>
 		<Metadata name="Constant.НаименованиеУчебногоЗаведения" id="d9d4e684-8844-448d-8b70-f0101659c624" configVersion="b4676f31d9e9124a95b5bbcb03ddef5500000000"/>
 		<Metadata name="Constant.ПорогНеуважительныхПропусковВЧасах" id="2a12c904-d890-46d3-91d7-14e07e8f0bca" configVersion="a25913b9952aa44881bc92e3293e1a8700000000"/>
 		<Metadata name="Constant.ПродолжительностьАкадемическогоЧаса" id="b41d6987-de57-4b23-abd0-704a92788bbf" configVersion="23860c19956fc14a99bb77cabcf9c98700000000"/>
@@ -307,9 +315,13 @@
 		<Metadata name="Report.СводнаяВедомостьПосещаемостиГруппы.Template.ОсновнаяСхемаКомпоновкиДанных" id="5d467f58-5639-4be7-8e09-09c2ecd4fe79" configVersion="5743691fb6d2b047acd540d64c75e64800000000"/>
 		<Metadata name="Report.СводнаяВедомостьПосещаемостиГруппы.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="5d467f58-5639-4be7-8e09-09c2ecd4fe79.0" configVersion="05dcb19a69e2954492f70863c8a8539700000000"/>
 		<Metadata name="Subsystem.АналитикаИАдминистрирование" id="787b7649-8fac-4a97-86e6-8149ef714ba6" configVersion="18a28ca78f9716488034a0114712874b00000000"/>
-		<Metadata name="Subsystem.КонтрольИСправки" id="8787b005-643a-491b-87e3-858060a7653c" configVersion="106a065083ffe74e8c4f45b46055a02800000000"/>
+		<Metadata name="Subsystem.КонтрольИСправки" id="8787b005-643a-491b-87e3-858060a7653c" configVersion="84cef6adcdc50d40b96997934761056000000000"/>
 		<Metadata name="Subsystem.НСИИСтруктураВуза" id="df5560fe-221c-43c7-b08f-f6272ab952d8" configVersion="9a834e1c6b2dbf4eb44b25de8271021e00000000"/>
 		<Metadata name="Subsystem.УчебныйПроцесс" id="327ea128-5286-40d5-9194-62e229b004dd" configVersion="3383a81edbd73d4c8669138f064c8f9a00000000"/>
 		<Metadata name="Subsystem.УчетПосещаемости" id="54fc8d00-3db2-49d9-9b55-5025f4de7a50" configVersion="0893220ab9e9c7429eb01e63d2d2d54b00000000"/>
+		<Metadata name="Task.ЗадачиДеканата" id="78dba475-e727-4c89-ad4c-c971a3d58ce8" configVersion="49ef8f5ba5a73f4991fe95b1ca56677c00000000">
+			<Metadata name="Task.ЗадачиДеканата.Attribute.КомментарийИсполнителя" id="11c9e490-a1d8-457f-bfd3-0fe90a209801"/>
+			<Metadata name="Task.ЗадачиДеканата.Attribute.Исполнитель" id="36991eac-9949-43c9-8c3c-b978006d7dfa"/>
+		</Metadata>
 	</ConfigVersions>
 </ConfigDumpInfo>

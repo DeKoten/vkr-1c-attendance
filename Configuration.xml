@@ -304,6 +304,8 @@
 			<AccumulationRegister>ПропускиПоПричинам</AccumulationRegister>
 			<AccumulationRegister>ПлановыеЧасыОбучения</AccumulationRegister>
 			<AccumulationRegister>ОтработкаПропусков</AccumulationRegister>
+			<BusinessProcess>СогласованиеОправдательногоДокумента</BusinessProcess>
+			<Task>ЗадачиДеканата</Task>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
