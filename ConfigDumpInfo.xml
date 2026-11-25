@@ -102,10 +102,21 @@
 			<Metadata name="Catalog.ШаблоныУведомлений.Attribute.ТекстШаблона" id="05bf8405-dbef-4956-b507-b6d7eb5dee54"/>
 			<Metadata name="Catalog.ШаблоныУведомлений.Attribute.ТемаПисьма" id="86934ef7-c8f5-4654-aa92-51f88dc797f4"/>
 		</Metadata>
-		<Metadata name="Configuration.ЮдинДВ_70188338" id="2f289f27-841c-4d83-be72-b037cc4ed011" configVersion="fd1d3ef9daf5ad41a0102ba00e42597000000000"/>
+		<Metadata name="Configuration.ЮдинДВ_70188338" id="2f289f27-841c-4d83-be72-b037cc4ed011" configVersion="7a1f6f86b7759947a760c9b643ecbb0000000000"/>
 		<Metadata name="Constant.НаименованиеУчебногоЗаведения" id="d9d4e684-8844-448d-8b70-f0101659c624" configVersion="b4676f31d9e9124a95b5bbcb03ddef5500000000"/>
 		<Metadata name="Constant.ПорогНеуважительныхПропусковВЧасах" id="2a12c904-d890-46d3-91d7-14e07e8f0bca" configVersion="a25913b9952aa44881bc92e3293e1a8700000000"/>
 		<Metadata name="Constant.ПродолжительностьАкадемическогоЧаса" id="b41d6987-de57-4b23-abd0-704a92788bbf" configVersion="23860c19956fc14a99bb77cabcf9c98700000000"/>
+		<Metadata name="Document.АктКонтроляПосещаемости" id="bc4561f3-6b02-4577-a925-a7894ee38b41" configVersion="abf005e43575e649a49153475769d31000000000">
+			<Metadata name="Document.АктКонтроляПосещаемости.Attribute.ВсегоПоСписку" id="088e45c7-f900-4e7d-a1ed-b7ac03bb2150"/>
+			<Metadata name="Document.АктКонтроляПосещаемости.Attribute.УчебнаяГруппа" id="0d719f2f-4b39-4d93-98ec-2bd092d8dbdf"/>
+			<Metadata name="Document.АктКонтроляПосещаемости.Attribute.ПрисутствовалоПоФакту" id="5c19b11c-8b14-4058-8a56-d7bf01ac4790"/>
+			<Metadata name="Document.АктКонтроляПосещаемости.Attribute.Замечания" id="671d04bc-3e4c-4687-8f91-376b8dce35fc"/>
+			<Metadata name="Document.АктКонтроляПосещаемости.Attribute.Дисциплина" id="a1c1a756-a4c8-47a1-b892-44e3fafe208a"/>
+			<Metadata name="Document.АктКонтроляПосещаемости.Attribute.Пара" id="e00853b6-a614-4b09-82c7-2287ab78d6fa"/>
+			<Metadata name="Document.АктКонтроляПосещаемости.Attribute.Аудитория" id="e8c48899-45ef-4af0-b03b-553b847aad9a"/>
+			<Metadata name="Document.АктКонтроляПосещаемости.Attribute.Проверяющий" id="efaf32fd-1e5b-4f69-ae81-a94d1d6a301d"/>
+		</Metadata>
+		<Metadata name="Document.АктКонтроляПосещаемости.ObjectModule" id="bc4561f3-6b02-4577-a925-a7894ee38b41.0" configVersion="328857b3eb84da41ab052d3f3ec1c15300000000"/>
 		<Metadata name="Document.ВедомостьПосещаемостиЗанятия" id="3a23ff5e-0e60-4b40-8451-4336530d7024" configVersion="2e213295b9c9ad449c6a6626a54860a600000000">
 			<Metadata name="Document.ВедомостьПосещаемостиЗанятия.Attribute.КоличествоЧасов" id="098a78aa-36f8-471c-af0f-f58a7f4f7ec6"/>
 			<Metadata name="Document.ВедомостьПосещаемостиЗанятия.Attribute.УчебнаяГруппа" id="0a948694-8441-4413-85bd-e9382d9aba78"/>
@@ -122,6 +133,14 @@
 			<Metadata name="Document.ВедомостьПосещаемостиЗанятия.TabularSection.Посещаемость.Attribute.МинутОпоздания" id="f40c3d31-3634-4530-99da-cb3667b85285"/>
 		</Metadata>
 		<Metadata name="Document.ВедомостьПосещаемостиЗанятия.ObjectModule" id="3a23ff5e-0e60-4b40-8451-4336530d7024.0" configVersion="a3dd106411046f4b9a59c0b84214588c00000000"/>
+		<Metadata name="Document.ЗакрытиеУчебногоПериода" id="04971d52-f5b0-4cb7-83e7-590e24596ac3" configVersion="dc6caf3ebf0c9a4492ae7a3147449b6d00000000">
+			<Metadata name="Document.ЗакрытиеУчебногоПериода.Attribute.ДатаЗакрытия" id="19a123e3-8e1c-43a8-a1eb-479d4d85c462"/>
+			<Metadata name="Document.ЗакрытиеУчебногоПериода.Attribute.Семестр" id="2c6b0bee-e26a-4cb7-aa79-0ae2f903f519"/>
+			<Metadata name="Document.ЗакрытиеУчебногоПериода.Attribute.Ответственный" id="5d643fb5-690d-4db1-bc43-0f89d57b4d48"/>
+			<Metadata name="Document.ЗакрытиеУчебногоПериода.Attribute.Комментарий" id="e3eaba04-8953-434e-8f57-9a83ea6d1432"/>
+			<Metadata name="Document.ЗакрытиеУчебногоПериода.Attribute.ИтогПосещаемостиПроцент" id="e8aced96-03c3-4313-b613-7693ba250cf4"/>
+		</Metadata>
+		<Metadata name="Document.ЗакрытиеУчебногоПериода.ObjectModule" id="04971d52-f5b0-4cb7-83e7-590e24596ac3.0" configVersion="8e24ab7bfc9d884283170814d755640d00000000"/>
 		<Metadata name="Document.ЗачислениеОбучающихся" id="255d294e-b066-471c-a1b2-5fd98dbe2aa8" configVersion="e110d97a3285fa4995195076e462ea6300000000">
 			<Metadata name="Document.ЗачислениеОбучающихся.Attribute.Комментарий" id="22e3d5d2-24bd-4860-983c-6afe070c7db2"/>
 			<Metadata name="Document.ЗачислениеОбучающихся.TabularSection.Обучающиеся.Attribute.НомерСтудБилета" id="2b3d0585-dd13-4d76-a03a-888e463f3b58"/>
@@ -159,6 +178,15 @@
 			<Metadata name="Document.НазначениеРасписанияЗанятий.TabularSection.Занятия" id="e93f5a13-5d8d-40e6-beaa-f39f6b2a7092"/>
 		</Metadata>
 		<Metadata name="Document.НазначениеРасписанияЗанятий.ObjectModule" id="6399ee7d-04c3-43de-a60a-dd6f25cc90dc.0" configVersion="e4052b4f9f7a284986a8b82e6b0dfe8600000000"/>
+		<Metadata name="Document.ОтработкаПропущенныхЗанятий" id="965a1014-e584-414d-a00a-ad1dc5656b8f" configVersion="31b9c378d138c84ab04d312ef1fef45700000000">
+			<Metadata name="Document.ОтработкаПропущенныхЗанятий.Attribute.ВидЗанятия" id="0486329e-0049-44b9-9540-7edd1bcd826d"/>
+			<Metadata name="Document.ОтработкаПропущенныхЗанятий.Attribute.Обучающийся" id="467b2f3f-5dfc-49fc-acf7-a79d42663984"/>
+			<Metadata name="Document.ОтработкаПропущенныхЗанятий.Attribute.Преподаватель" id="5b391373-1f7b-4f67-a797-fd015044ee92"/>
+			<Metadata name="Document.ОтработкаПропущенныхЗанятий.Attribute.Дисциплина" id="bd2c1a52-eb01-4725-b2eb-b329b98aa242"/>
+			<Metadata name="Document.ОтработкаПропущенныхЗанятий.Attribute.ОтработаноЧасов" id="efd6ee8d-c8ea-4bc0-aa94-deec267a00ec"/>
+			<Metadata name="Document.ОтработкаПропущенныхЗанятий.Attribute.ОценкаЗачет" id="f09ab935-a7ce-4125-aa8d-32dbb70aa71e"/>
+		</Metadata>
+		<Metadata name="Document.ОтработкаПропущенныхЗанятий.ObjectModule" id="965a1014-e584-414d-a00a-ad1dc5656b8f.0" configVersion="aff32867492a2b4098547ea5cd1ea7bd00000000"/>
 		<Metadata name="Document.ПереводОтчислениеОбучающихся" id="34e243ed-f863-4dc1-840c-a58674fa2607" configVersion="0900365db0a87543951a5b5b00bc6cce00000000">
 			<Metadata name="Document.ПереводОтчислениеОбучающихся.Attribute.Ответственный" id="18071b9a-93c7-4260-96d9-f6e129ce7ca1"/>
 			<Metadata name="Document.ПереводОтчислениеОбучающихся.Attribute.НоваяГруппа" id="34623898-7864-4235-93e3-aec964463f79"/>
@@ -170,6 +198,15 @@
 			<Metadata name="Document.ПереводОтчислениеОбучающихся.TabularSection.Обучающиеся.Attribute.ПредыдущаяГруппа" id="fff78f63-2503-4915-a5cc-fc53b69009f8"/>
 		</Metadata>
 		<Metadata name="Document.ПереводОтчислениеОбучающихся.ObjectModule" id="34e243ed-f863-4dc1-840c-a58674fa2607.0" configVersion="7449175b4d09ad458ce453708401130c00000000"/>
+		<Metadata name="Document.ПредупреждениеОПропусках" id="e3a42f89-f947-4a5a-8e87-caa6fdfb08b9" configVersion="11ecb7a4b541d6489d64ba4fd1b063c800000000">
+			<Metadata name="Document.ПредупреждениеОПропусках.Attribute.Семестр" id="41352def-69ec-4e1b-b49f-96c75edc9ca0"/>
+			<Metadata name="Document.ПредупреждениеОПропусках.Attribute.Комментарий" id="50ed9ac4-b385-4b25-a990-499b488fb1a6"/>
+			<Metadata name="Document.ПредупреждениеОПропусках.Attribute.ШаблонУведомления" id="57ed4917-bb34-469c-83a9-49afca895436"/>
+			<Metadata name="Document.ПредупреждениеОПропусках.Attribute.Обучающийся" id="aeb100d2-16b1-4479-bb5f-7567acaf6cf3"/>
+			<Metadata name="Document.ПредупреждениеОПропусках.Attribute.Ответственный" id="c50d0f43-3c6c-42ab-9251-81a944404c5d"/>
+			<Metadata name="Document.ПредупреждениеОПропусках.Attribute.КоличествоНеуважительныхЧасов" id="fad345b1-464b-45e7-91ab-fcfb6e7523e3"/>
+		</Metadata>
+		<Metadata name="Document.ПредупреждениеОПропусках.ObjectModule" id="e3a42f89-f947-4a5a-8e87-caa6fdfb08b9.0" configVersion="f5676aec7fee2848a89d42ee7df6cff500000000"/>
 		<Metadata name="Document.РегистрацияОправдательногоДокумента" id="e203c618-d1cc-4546-9289-ba51ea356dc8" configVersion="3be629ec84c9244892ceefb3f5f24c3100000000">
 			<Metadata name="Document.РегистрацияОправдательногоДокумента.Attribute.Ответственный" id="1d2eec82-9899-4c4d-8919-8d2286e560ad"/>
 			<Metadata name="Document.РегистрацияОправдательногоДокумента.Attribute.СтатусСправки" id="2dc7077f-4ff8-49b1-b796-bf6d6b4a90ec"/>
@@ -245,10 +282,10 @@
 			<Metadata name="InformationRegister.СостояниеОбучающихся.Resource.УчебнаяГруппа" id="ca7a25ab-9281-438c-9580-18efa355dfb1"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="79e11c29-9819-472b-b32b-eb2dd60295f9" configVersion="a635e128c5940e42979f89ec13c09a8a00000000"/>
-		<Metadata name="Subsystem.АналитикаИАдминистрирование" id="787b7649-8fac-4a97-86e6-8149ef714ba6" configVersion="daab14d8473d2d418ae12b2cd7b5982500000000"/>
-		<Metadata name="Subsystem.КонтрольИСправки" id="8787b005-643a-491b-87e3-858060a7653c" configVersion="69e47c6d46b7c44c9ffa8de99573104a00000000"/>
+		<Metadata name="Subsystem.АналитикаИАдминистрирование" id="787b7649-8fac-4a97-86e6-8149ef714ba6" configVersion="345390866b7760418739efe8dfdc58f700000000"/>
+		<Metadata name="Subsystem.КонтрольИСправки" id="8787b005-643a-491b-87e3-858060a7653c" configVersion="cb0cf13683ad694fbcf2ebb325e6c62b00000000"/>
 		<Metadata name="Subsystem.НСИИСтруктураВуза" id="df5560fe-221c-43c7-b08f-f6272ab952d8" configVersion="9a834e1c6b2dbf4eb44b25de8271021e00000000"/>
 		<Metadata name="Subsystem.УчебныйПроцесс" id="327ea128-5286-40d5-9194-62e229b004dd" configVersion="3383a81edbd73d4c8669138f064c8f9a00000000"/>
-		<Metadata name="Subsystem.УчетПосещаемости" id="54fc8d00-3db2-49d9-9b55-5025f4de7a50" configVersion="7111febc345a564cbe941e4ea7f228c000000000"/>
+		<Metadata name="Subsystem.УчетПосещаемости" id="54fc8d00-3db2-49d9-9b55-5025f4de7a50" configVersion="a725f96204f5924b913f16ae48208a3c00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

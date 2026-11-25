@@ -281,6 +281,10 @@
 			<Document>ИзменениеОтменаЗанятий</Document>
 			<Document>ВедомостьПосещаемостиЗанятия</Document>
 			<Document>РегистрацияОправдательногоДокумента</Document>
+			<Document>ПредупреждениеОПропусках</Document>
+			<Document>ОтработкаПропущенныхЗанятий</Document>
+			<Document>АктКонтроляПосещаемости</Document>
+			<Document>ЗакрытиеУчебногоПериода</Document>
 			<Enum>СтатусыПосещаемости</Enum>
 			<Enum>ФормыОбучения</Enum>
 			<Enum>СтатусыОбучающегося</Enum>
