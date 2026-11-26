@@ -28,6 +28,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Document.УтверждениеУчебногоПлана</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.НазначениеРасписанияЗанятий</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.ИзменениеОтменаЗанятий</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonCommand.ОткрытьСправкуОСистеме</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

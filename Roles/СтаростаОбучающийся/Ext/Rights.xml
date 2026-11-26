@@ -15,6 +15,13 @@
 		</right>
 	</object>
 	<object>
+		<name>CommonForm.СправкаОСистеме</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Catalog.ШаблоныУведомлений.Attribute.ТекстШаблона</name>
 		<right>
 			<name>View</name>
@@ -767,6 +774,13 @@
 		<right>
 			<name>Edit</name>
 			<value>false</value>
+		</right>
+	</object>
+	<object>
+		<name>CommonCommand.ОткрытьСправкуОСистеме</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
 		</right>
 	</object>
 	<object>

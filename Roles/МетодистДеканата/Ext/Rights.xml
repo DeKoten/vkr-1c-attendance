@@ -4,6 +4,13 @@
 	<setForAttributesByDefault>true</setForAttributesByDefault>
 	<independentRightsOfChildObjects>false</independentRightsOfChildObjects>
 	<object>
+		<name>CommonForm.СправкаОСистеме</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Document.ЗакрытиеУчебногоПериода</name>
 		<right>
 			<name>Read</name>
@@ -1048,6 +1055,13 @@
 		</right>
 		<right>
 			<name>InteractiveUndoPosting</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>CommonCommand.ОткрытьСправкуОСистеме</name>
+		<right>
+			<name>View</name>
 			<value>true</value>
 		</right>
 	</object>

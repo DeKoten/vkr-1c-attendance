@@ -260,9 +260,11 @@
 			<Role>Преподаватель</Role>
 			<Role>СтаростаОбучающийся</Role>
 			<CommonModule>УчетПосещаемостиСервер</CommonModule>
+			<CommonCommand>ОткрытьСправкуОСистеме</CommonCommand>
 			<Constant>НаименованиеУчебногоЗаведения</Constant>
 			<Constant>ПорогНеуважительныхПропусковВЧасах</Constant>
 			<Constant>ПродолжительностьАкадемическогоЧаса</Constant>
+			<CommonForm>СправкаОСистеме</CommonForm>
 			<Catalog>СтруктурныеПодразделения</Catalog>
 			<Catalog>Аудитории</Catalog>
 			<Catalog>Дисциплины</Catalog>

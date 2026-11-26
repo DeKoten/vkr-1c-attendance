@@ -123,9 +123,13 @@
 			<Metadata name="Catalog.ШаблоныУведомлений.Attribute.ТекстШаблона" id="05bf8405-dbef-4956-b507-b6d7eb5dee54"/>
 			<Metadata name="Catalog.ШаблоныУведомлений.Attribute.ТемаПисьма" id="86934ef7-c8f5-4654-aa92-51f88dc797f4"/>
 		</Metadata>
+		<Metadata name="CommonCommand.ОткрытьСправкуОСистеме" id="bce74f6c-60d9-49ca-a449-803dceb76c4e" configVersion="999c925865e5814092c82f556d35ee2700000000"/>
+		<Metadata name="CommonCommand.ОткрытьСправкуОСистеме.CommandModule" id="bce74f6c-60d9-49ca-a449-803dceb76c4e.2" configVersion="f983f79842f964458026d1a19b0b73ad00000000"/>
+		<Metadata name="CommonForm.СправкаОСистеме" id="0323d425-da39-43b8-a5a4-a33750f9618a" configVersion="1354042ee1098d40b179ea69ae0622fb00000000"/>
+		<Metadata name="CommonForm.СправкаОСистеме.Form" id="0323d425-da39-43b8-a5a4-a33750f9618a.0" configVersion="599157a8998622429da0a38a2bec9b7900000000"/>
 		<Metadata name="CommonModule.УчетПосещаемостиСервер" id="5754384a-9e5b-41cf-a586-100013e6c75b" configVersion="5cda3bed5c17c1478ad886d6ead29ada00000000"/>
 		<Metadata name="CommonModule.УчетПосещаемостиСервер.Module" id="5754384a-9e5b-41cf-a586-100013e6c75b.0" configVersion="100f45e2d3ed5941ba938c27b243438e00000000"/>
-		<Metadata name="Configuration.ЮдинДВ_70188338" id="2f289f27-841c-4d83-be72-b037cc4ed011" configVersion="e5de673a5d2c7f479c2ee32ffd62aa2d00000000"/>
+		<Metadata name="Configuration.ЮдинДВ_70188338" id="2f289f27-841c-4d83-be72-b037cc4ed011" configVersion="78b99cd3e778e248856fc3d0a3f2980c00000000"/>
 		<Metadata name="Constant.НаименованиеУчебногоЗаведения" id="d9d4e684-8844-448d-8b70-f0101659c624" configVersion="b4676f31d9e9124a95b5bbcb03ddef5500000000"/>
 		<Metadata name="Constant.ПорогНеуважительныхПропусковВЧасах" id="2a12c904-d890-46d3-91d7-14e07e8f0bca" configVersion="a25913b9952aa44881bc92e3293e1a8700000000"/>
 		<Metadata name="Constant.ПродолжительностьАкадемическогоЧаса" id="b41d6987-de57-4b23-abd0-704a92788bbf" configVersion="23860c19956fc14a99bb77cabcf9c98700000000"/>
@@ -339,17 +343,17 @@
 		<Metadata name="Report.СводнаяВедомостьПосещаемостиГруппы.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="5d467f58-5639-4be7-8e09-09c2ecd4fe79.0" configVersion="ea28c5bc9a360442a419b6195813311900000000"/>
 		<Metadata name="Role.АдминистраторСистемы" id="c74a8cb3-15d4-4f7c-a0c6-ad028fdaaf02" configVersion="6ee097fb1d623547bd38b6641f377c1500000000"/>
 		<Metadata name="Role.АдминистраторСистемы.Rights" id="c74a8cb3-15d4-4f7c-a0c6-ad028fdaaf02.0" configVersion="6af3affef191bf488834f8af29aa0ceb00000000"/>
-		<Metadata name="Role.МетодистДеканата" id="c8dc6508-ec4f-483e-bad4-21617c68fb0c" configVersion="ae3f64371e91a344ab923474146ee0e200000000"/>
-		<Metadata name="Role.МетодистДеканата.Rights" id="c8dc6508-ec4f-483e-bad4-21617c68fb0c.0" configVersion="4560b7c303b5c243a62e1901e8b779d800000000"/>
-		<Metadata name="Role.Преподаватель" id="ed3c84fe-0e7c-4286-87be-e386a33f5a13" configVersion="679ee57fbec5834c8b81ecef850f256800000000"/>
-		<Metadata name="Role.Преподаватель.Rights" id="ed3c84fe-0e7c-4286-87be-e386a33f5a13.0" configVersion="8da92b808d972a45b3e072bcb761100100000000"/>
-		<Metadata name="Role.СтаростаОбучающийся" id="dbb7e618-f426-428b-9750-16f9ae218449" configVersion="2f9b6e61d106e749964dc6e3647533a400000000"/>
-		<Metadata name="Role.СтаростаОбучающийся.Rights" id="dbb7e618-f426-428b-9750-16f9ae218449.0" configVersion="6498a801f2a93443a4d64392b0bbb1b200000000"/>
-		<Metadata name="Subsystem.АналитикаИАдминистрирование" id="787b7649-8fac-4a97-86e6-8149ef714ba6" configVersion="9ce52a01a348004493498eda8b22c73a00000000"/>
-		<Metadata name="Subsystem.КонтрольИСправки" id="8787b005-643a-491b-87e3-858060a7653c" configVersion="d62fe9662c595748b09f07199118d2b800000000"/>
-		<Metadata name="Subsystem.НСИИСтруктураВуза" id="df5560fe-221c-43c7-b08f-f6272ab952d8" configVersion="9a834e1c6b2dbf4eb44b25de8271021e00000000"/>
-		<Metadata name="Subsystem.УчебныйПроцесс" id="327ea128-5286-40d5-9194-62e229b004dd" configVersion="3383a81edbd73d4c8669138f064c8f9a00000000"/>
-		<Metadata name="Subsystem.УчетПосещаемости" id="54fc8d00-3db2-49d9-9b55-5025f4de7a50" configVersion="0893220ab9e9c7429eb01e63d2d2d54b00000000"/>
+		<Metadata name="Role.МетодистДеканата" id="c8dc6508-ec4f-483e-bad4-21617c68fb0c" configVersion="a7f0338a41a2344ebaaf08fd2a7765f000000000"/>
+		<Metadata name="Role.МетодистДеканата.Rights" id="c8dc6508-ec4f-483e-bad4-21617c68fb0c.0" configVersion="81006251bd584f46be2407537d4f54e000000000"/>
+		<Metadata name="Role.Преподаватель" id="ed3c84fe-0e7c-4286-87be-e386a33f5a13" configVersion="0e3347add3a2994abbe00256db65675900000000"/>
+		<Metadata name="Role.Преподаватель.Rights" id="ed3c84fe-0e7c-4286-87be-e386a33f5a13.0" configVersion="e9ebb9c22d5b0e409845896304c4647a00000000"/>
+		<Metadata name="Role.СтаростаОбучающийся" id="dbb7e618-f426-428b-9750-16f9ae218449" configVersion="b164247a46279e448689a5017274016000000000"/>
+		<Metadata name="Role.СтаростаОбучающийся.Rights" id="dbb7e618-f426-428b-9750-16f9ae218449.0" configVersion="ed5632a268475148b00281f7f2f8a3c400000000"/>
+		<Metadata name="Subsystem.АналитикаИАдминистрирование" id="787b7649-8fac-4a97-86e6-8149ef714ba6" configVersion="e7d223fd54762944bd26203160a802aa00000000"/>
+		<Metadata name="Subsystem.КонтрольИСправки" id="8787b005-643a-491b-87e3-858060a7653c" configVersion="30c8a34d8cf1344384e454730c7cee1b00000000"/>
+		<Metadata name="Subsystem.НСИИСтруктураВуза" id="df5560fe-221c-43c7-b08f-f6272ab952d8" configVersion="00fa629e0181d84abbd0d53c2d256b9c00000000"/>
+		<Metadata name="Subsystem.УчебныйПроцесс" id="327ea128-5286-40d5-9194-62e229b004dd" configVersion="71141de398823b4c9c1210ac6a2c9dd600000000"/>
+		<Metadata name="Subsystem.УчетПосещаемости" id="54fc8d00-3db2-49d9-9b55-5025f4de7a50" configVersion="b9df86c7d974e64c9a98ad0db643ee8200000000"/>
 		<Metadata name="Task.ЗадачиДеканата" id="78dba475-e727-4c89-ad4c-c971a3d58ce8" configVersion="49ef8f5ba5a73f4991fe95b1ca56677c00000000">
 			<Metadata name="Task.ЗадачиДеканата.Attribute.КомментарийИсполнителя" id="11c9e490-a1d8-457f-bfd3-0fe90a209801"/>
 			<Metadata name="Task.ЗадачиДеканата.Attribute.Исполнитель" id="36991eac-9949-43c9-8c3c-b978006d7dfa"/>
