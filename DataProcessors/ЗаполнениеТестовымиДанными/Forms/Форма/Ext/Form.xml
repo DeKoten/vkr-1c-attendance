@@ -13,6 +13,11 @@
 			</Title>
 			<ExtendedTooltip name="ЗаполнитьБазуРасширеннаяПодсказка" id="2"/>
 		</Button>
+		<Button name="ОчиститьБазу" id="3">
+			<Type>UsualButton</Type>
+			<CommandName>Form.Command.ОчиститьБазу</CommandName>
+			<ExtendedTooltip name="ОчиститьБазуРасширеннаяПодсказка" id="4"/>
+		</Button>
 	</ChildItems>
 	<Attributes>
 		<Attribute name="Объект" id="1">
@@ -37,6 +42,21 @@
 				</v8:item>
 			</ToolTip>
 			<Action>ЗаполнитьБазу</Action>
+		</Command>
+		<Command name="ОчиститьБазу" id="2">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Очистить тестовые данные</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Очистить базу</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>ОчиститьБазу1</Action>
 		</Command>
 	</Commands>
 </Form>

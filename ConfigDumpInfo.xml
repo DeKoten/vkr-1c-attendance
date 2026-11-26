@@ -137,8 +137,8 @@
 		<Metadata name="DataProcessor.ГенерацияВедомостейПоРасписанию.Form.Форма" id="0a25bbbe-de0b-42ea-a258-3efbf566ec64" configVersion="bb30429ad6d5ae42962a84d821bb502a00000000"/>
 		<Metadata name="DataProcessor.ГенерацияВедомостейПоРасписанию.Form.Форма.Form" id="0a25bbbe-de0b-42ea-a258-3efbf566ec64.0" configVersion="f25757e6f7a83f4c882ebc29c17598aa00000000"/>
 		<Metadata name="DataProcessor.ЗаполнениеТестовымиДанными" id="bb993a89-6518-4939-a67b-ccb7ef5c4055" configVersion="aff276e485a3c1499b58f3ddd815160700000000"/>
-		<Metadata name="DataProcessor.ЗаполнениеТестовымиДанными.Form.Форма" id="a5ee76f3-79af-4f18-a51a-45442f4c62c0" configVersion="6e2f61c5d976654c9d28ed7e423f121d00000000"/>
-		<Metadata name="DataProcessor.ЗаполнениеТестовымиДанными.Form.Форма.Form" id="a5ee76f3-79af-4f18-a51a-45442f4c62c0.0" configVersion="a6aa07361feeb046a6abbeae8caac69700000000"/>
+		<Metadata name="DataProcessor.ЗаполнениеТестовымиДанными.Form.Форма" id="a5ee76f3-79af-4f18-a51a-45442f4c62c0" configVersion="b93d0dc00547a24594d317566523e53800000000"/>
+		<Metadata name="DataProcessor.ЗаполнениеТестовымиДанными.Form.Форма.Form" id="a5ee76f3-79af-4f18-a51a-45442f4c62c0.0" configVersion="afc21ae147b9f74296177e7b16d7c7a500000000"/>
 		<Metadata name="DataProcessor.ЗаполнениеТестовымиДанными.ObjectModule" id="bb993a89-6518-4939-a67b-ccb7ef5c4055.0" configVersion="612c0b2dbcfe7a43811890f645a9633a00000000"/>
 		<Metadata name="Document.АктКонтроляПосещаемости" id="bc4561f3-6b02-4577-a925-a7894ee38b41" configVersion="abf005e43575e649a49153475769d31000000000">
 			<Metadata name="Document.АктКонтроляПосещаемости.Attribute.ВсегоПоСписку" id="088e45c7-f900-4e7d-a1ed-b7ac03bb2150"/>
