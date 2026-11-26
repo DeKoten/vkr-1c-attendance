@@ -10,6 +10,11 @@
 				<CommandName>Form.Command.ЗаполнитьПоГруппе</CommandName>
 				<ExtendedTooltip name="ФормаЗаполнитьПоГруппеРасширеннаяПодсказка" id="60"/>
 			</Button>
+			<Button name="ФормаПечатьВедомости" id="61">
+				<Type>CommandBarButton</Type>
+				<CommandName>Form.Command.ПечатьВедомости</CommandName>
+				<ExtendedTooltip name="ФормаПечатьВедомостиРасширеннаяПодсказка" id="62"/>
+			</Button>
 		</ChildItems>
 	</AutoCommandBar>
 	<ChildItems>
@@ -191,6 +196,21 @@
 				</v8:item>
 			</ToolTip>
 			<Action>ЗаполнитьПоГруппе</Action>
+		</Command>
+		<Command name="ПечатьВедомости" id="2">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Печать ведомости</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Печать ведомости</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>ПечатьВедомости</Action>
 		</Command>
 	</Commands>
 </Form>
