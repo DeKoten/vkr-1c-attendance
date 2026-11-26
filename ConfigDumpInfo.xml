@@ -183,7 +183,7 @@
 			<Metadata name="Document.ЗакрытиеУчебногоПериода.Attribute.ИтогПосещаемостиПроцент" id="e8aced96-03c3-4313-b613-7693ba250cf4"/>
 		</Metadata>
 		<Metadata name="Document.ЗакрытиеУчебногоПериода.ObjectModule" id="04971d52-f5b0-4cb7-83e7-590e24596ac3.0" configVersion="8e24ab7bfc9d884283170814d755640d00000000"/>
-		<Metadata name="Document.ЗачислениеОбучающихся" id="255d294e-b066-471c-a1b2-5fd98dbe2aa8" configVersion="e110d97a3285fa4995195076e462ea6300000000">
+		<Metadata name="Document.ЗачислениеОбучающихся" id="255d294e-b066-471c-a1b2-5fd98dbe2aa8" configVersion="a65a8318fe32244bb109c35746081ff500000000">
 			<Metadata name="Document.ЗачислениеОбучающихся.Attribute.Комментарий" id="22e3d5d2-24bd-4860-983c-6afe070c7db2"/>
 			<Metadata name="Document.ЗачислениеОбучающихся.TabularSection.Обучающиеся.Attribute.НомерСтудБилета" id="2b3d0585-dd13-4d76-a03a-888e463f3b58"/>
 			<Metadata name="Document.ЗачислениеОбучающихся.Attribute.НомерПриказа" id="6ef207b5-82ea-48a8-aebf-2cf6332fec1c"/>
@@ -192,6 +192,8 @@
 			<Metadata name="Document.ЗачислениеОбучающихся.Attribute.Ответственный" id="a2d15b7d-5aa1-4083-a817-51e4441af976"/>
 			<Metadata name="Document.ЗачислениеОбучающихся.Attribute.УчебнаяГруппа" id="a49f3550-f3fd-4124-a4a7-00c39056c5ab"/>
 		</Metadata>
+		<Metadata name="Document.ЗачислениеОбучающихся.Form.ФормаДокумента" id="5d8ccdb1-de56-4548-b1b6-5d8aaff9b651" configVersion="717b0eca19d4314099f8232009bc327e00000000"/>
+		<Metadata name="Document.ЗачислениеОбучающихся.Form.ФормаДокумента.Form" id="5d8ccdb1-de56-4548-b1b6-5d8aaff9b651.0" configVersion="f667637607a3cb47b9fbacc920f9393800000000"/>
 		<Metadata name="Document.ЗачислениеОбучающихся.ObjectModule" id="255d294e-b066-471c-a1b2-5fd98dbe2aa8.0" configVersion="83dc97a5f73bc34f803f3445af36d6d600000000"/>
 		<Metadata name="Document.ИзменениеОтменаЗанятий" id="694007a1-15b6-4177-a6a5-4e3d7fb66634" configVersion="e58a4d1bd80a1946b070e24dfae3f73800000000">
 			<Metadata name="Document.ИзменениеОтменаЗанятий.Attribute.Ответственный" id="56baae4e-e968-45c9-8923-1db0d767aa91"/>
