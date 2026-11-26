@@ -234,7 +234,7 @@
 			<Metadata name="Document.ПереводОтчислениеОбучающихся.TabularSection.Обучающиеся.Attribute.ПредыдущаяГруппа" id="fff78f63-2503-4915-a5cc-fc53b69009f8"/>
 		</Metadata>
 		<Metadata name="Document.ПереводОтчислениеОбучающихся.ObjectModule" id="34e243ed-f863-4dc1-840c-a58674fa2607.0" configVersion="7449175b4d09ad458ce453708401130c00000000"/>
-		<Metadata name="Document.ПредупреждениеОПропусках" id="e3a42f89-f947-4a5a-8e87-caa6fdfb08b9" configVersion="11ecb7a4b541d6489d64ba4fd1b063c800000000">
+		<Metadata name="Document.ПредупреждениеОПропусках" id="e3a42f89-f947-4a5a-8e87-caa6fdfb08b9" configVersion="50f28e518fff6245a8fa3558f6b9699000000000">
 			<Metadata name="Document.ПредупреждениеОПропусках.Attribute.Семестр" id="41352def-69ec-4e1b-b49f-96c75edc9ca0"/>
 			<Metadata name="Document.ПредупреждениеОПропусках.Attribute.Комментарий" id="50ed9ac4-b385-4b25-a990-499b488fb1a6"/>
 			<Metadata name="Document.ПредупреждениеОПропусках.Attribute.ШаблонУведомления" id="57ed4917-bb34-469c-83a9-49afca895436"/>
@@ -242,6 +242,8 @@
 			<Metadata name="Document.ПредупреждениеОПропусках.Attribute.Ответственный" id="c50d0f43-3c6c-42ab-9251-81a944404c5d"/>
 			<Metadata name="Document.ПредупреждениеОПропусках.Attribute.КоличествоНеуважительныхЧасов" id="fad345b1-464b-45e7-91ab-fcfb6e7523e3"/>
 		</Metadata>
+		<Metadata name="Document.ПредупреждениеОПропусках.Form.ФормаДокумента" id="fae7693e-9565-4174-9700-c3f4986743a8" configVersion="894a3925d07a3840a594379c934d595500000000"/>
+		<Metadata name="Document.ПредупреждениеОПропусках.Form.ФормаДокумента.Form" id="fae7693e-9565-4174-9700-c3f4986743a8.0" configVersion="70b5a43ce6a2c8408e28c06b2b21f79e00000000"/>
 		<Metadata name="Document.ПредупреждениеОПропусках.ObjectModule" id="e3a42f89-f947-4a5a-8e87-caa6fdfb08b9.0" configVersion="f5676aec7fee2848a89d42ee7df6cff500000000"/>
 		<Metadata name="Document.РегистрацияОправдательногоДокумента" id="e203c618-d1cc-4546-9289-ba51ea356dc8" configVersion="3be629ec84c9244892ceefb3f5f24c3100000000">
 			<Metadata name="Document.РегистрацияОправдательногоДокумента.Attribute.Ответственный" id="1d2eec82-9899-4c4d-8919-8d2286e560ad"/>
