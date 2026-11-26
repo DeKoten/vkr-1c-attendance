@@ -253,7 +253,7 @@
 		<Metadata name="Document.ПредупреждениеОПропусках.Form.ФормаДокумента" id="fae7693e-9565-4174-9700-c3f4986743a8" configVersion="894a3925d07a3840a594379c934d595500000000"/>
 		<Metadata name="Document.ПредупреждениеОПропусках.Form.ФормаДокумента.Form" id="fae7693e-9565-4174-9700-c3f4986743a8.0" configVersion="70b5a43ce6a2c8408e28c06b2b21f79e00000000"/>
 		<Metadata name="Document.ПредупреждениеОПропусках.ObjectModule" id="e3a42f89-f947-4a5a-8e87-caa6fdfb08b9.0" configVersion="f5676aec7fee2848a89d42ee7df6cff500000000"/>
-		<Metadata name="Document.РегистрацияОправдательногоДокумента" id="e203c618-d1cc-4546-9289-ba51ea356dc8" configVersion="3be629ec84c9244892ceefb3f5f24c3100000000">
+		<Metadata name="Document.РегистрацияОправдательногоДокумента" id="e203c618-d1cc-4546-9289-ba51ea356dc8" configVersion="08927a4aa193e544a2cc79f0a1028a6700000000">
 			<Metadata name="Document.РегистрацияОправдательногоДокумента.Attribute.Ответственный" id="1d2eec82-9899-4c4d-8919-8d2286e560ad"/>
 			<Metadata name="Document.РегистрацияОправдательногоДокумента.Attribute.СтатусСправки" id="2dc7077f-4ff8-49b1-b796-bf6d6b4a90ec"/>
 			<Metadata name="Document.РегистрацияОправдательногоДокумента.Attribute.ТипДокумента" id="4c987ec8-7cbe-47f2-9a9a-41adae1c48ff"/>
@@ -263,6 +263,8 @@
 			<Metadata name="Document.РегистрацияОправдательногоДокумента.Attribute.ДатаОкончания" id="dbf457fc-7712-4026-af50-f2c48e2cc3c2"/>
 			<Metadata name="Document.РегистрацияОправдательногоДокумента.Attribute.НомерСправки" id="e96911c3-28af-42a0-a485-6d00b51f6f46"/>
 		</Metadata>
+		<Metadata name="Document.РегистрацияОправдательногоДокумента.Form.ФормаДокумента" id="8e1d3d1a-4e45-4d4b-86db-e213307f06c3" configVersion="3b4112e07fe215488bd8c2e6ae6672d600000000"/>
+		<Metadata name="Document.РегистрацияОправдательногоДокумента.Form.ФормаДокумента.Form" id="8e1d3d1a-4e45-4d4b-86db-e213307f06c3.0" configVersion="ffe44d9202587a4b830a14ac3edc609e00000000"/>
 		<Metadata name="Document.РегистрацияОправдательногоДокумента.ObjectModule" id="e203c618-d1cc-4546-9289-ba51ea356dc8.0" configVersion="edeb793a59521a48abfed81f3ee6325400000000"/>
 		<Metadata name="Document.УтверждениеУчебногоПлана" id="86ec6e92-5ea9-4bef-b446-0f05de46e508" configVersion="12f81fe50a76e4458313f0703a76cbae00000000">
 			<Metadata name="Document.УтверждениеУчебногоПлана.Attribute.УчебныйПлан" id="1365f65c-bd01-440d-9fdc-5a776e2674a7"/>
