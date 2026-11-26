@@ -61,6 +61,9 @@
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ПараКонтекстноеМеню" id="20"/>
 			<ExtendedTooltip name="ПараРасширеннаяПодсказка" id="21"/>
+			<Events>
+				<Event name="OnChange">ПараПриИзменении</Event>
+			</Events>
 		</InputField>
 		<InputField name="Аудитория" id="22">
 			<DataPath>Объект.Аудитория</DataPath>
