@@ -222,7 +222,7 @@
 			<Metadata name="Document.НазначениеРасписанияЗанятий.TabularSection.Занятия" id="e93f5a13-5d8d-40e6-beaa-f39f6b2a7092"/>
 		</Metadata>
 		<Metadata name="Document.НазначениеРасписанияЗанятий.ObjectModule" id="6399ee7d-04c3-43de-a60a-dd6f25cc90dc.0" configVersion="e4052b4f9f7a284986a8b82e6b0dfe8600000000"/>
-		<Metadata name="Document.ОтработкаПропущенныхЗанятий" id="965a1014-e584-414d-a00a-ad1dc5656b8f" configVersion="31b9c378d138c84ab04d312ef1fef45700000000">
+		<Metadata name="Document.ОтработкаПропущенныхЗанятий" id="965a1014-e584-414d-a00a-ad1dc5656b8f" configVersion="7cf756eaec73e2409352b9252e2d73ca00000000">
 			<Metadata name="Document.ОтработкаПропущенныхЗанятий.Attribute.ВидЗанятия" id="0486329e-0049-44b9-9540-7edd1bcd826d"/>
 			<Metadata name="Document.ОтработкаПропущенныхЗанятий.Attribute.Обучающийся" id="467b2f3f-5dfc-49fc-acf7-a79d42663984"/>
 			<Metadata name="Document.ОтработкаПропущенныхЗанятий.Attribute.Преподаватель" id="5b391373-1f7b-4f67-a797-fd015044ee92"/>
@@ -230,6 +230,8 @@
 			<Metadata name="Document.ОтработкаПропущенныхЗанятий.Attribute.ОтработаноЧасов" id="efd6ee8d-c8ea-4bc0-aa94-deec267a00ec"/>
 			<Metadata name="Document.ОтработкаПропущенныхЗанятий.Attribute.ОценкаЗачет" id="f09ab935-a7ce-4125-aa8d-32dbb70aa71e"/>
 		</Metadata>
+		<Metadata name="Document.ОтработкаПропущенныхЗанятий.Form.ФормаДокумента" id="60274b1b-eafb-4a6c-a7a4-94174ca10126" configVersion="8263757120e67d47ba1cbe7e4d555b7600000000"/>
+		<Metadata name="Document.ОтработкаПропущенныхЗанятий.Form.ФормаДокумента.Form" id="60274b1b-eafb-4a6c-a7a4-94174ca10126.0" configVersion="9af259c2168d5d4cac814700b60d80b600000000"/>
 		<Metadata name="Document.ОтработкаПропущенныхЗанятий.ObjectModule" id="965a1014-e584-414d-a00a-ad1dc5656b8f.0" configVersion="aff32867492a2b4098547ea5cd1ea7bd00000000"/>
 		<Metadata name="Document.ПереводОтчислениеОбучающихся" id="34e243ed-f863-4dc1-840c-a58674fa2607" configVersion="0900365db0a87543951a5b5b00bc6cce00000000">
 			<Metadata name="Document.ПереводОтчислениеОбучающихся.Attribute.Ответственный" id="18071b9a-93c7-4260-96d9-f6e129ce7ca1"/>
