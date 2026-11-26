@@ -166,8 +166,8 @@
 			<Metadata name="Document.ВедомостьПосещаемостиЗанятия.Attribute.Дисциплина" id="dfce3f55-8ad9-44fc-b330-4211d13f1157"/>
 			<Metadata name="Document.ВедомостьПосещаемостиЗанятия.TabularSection.Посещаемость.Attribute.МинутОпоздания" id="f40c3d31-3634-4530-99da-cb3667b85285"/>
 		</Metadata>
-		<Metadata name="Document.ВедомостьПосещаемостиЗанятия.Form.ФормаДокумента" id="a992b3ae-5172-45d8-a87f-2c613139551c" configVersion="c457298ad9a17a438dee0bfcc1d8726100000000"/>
-		<Metadata name="Document.ВедомостьПосещаемостиЗанятия.Form.ФормаДокумента.Form" id="a992b3ae-5172-45d8-a87f-2c613139551c.0" configVersion="5a77089eabb190468763ff861c62742800000000"/>
+		<Metadata name="Document.ВедомостьПосещаемостиЗанятия.Form.ФормаДокумента" id="a992b3ae-5172-45d8-a87f-2c613139551c" configVersion="02ea2ebcbc936443a94492ba1da1528f00000000"/>
+		<Metadata name="Document.ВедомостьПосещаемостиЗанятия.Form.ФормаДокумента.Form" id="a992b3ae-5172-45d8-a87f-2c613139551c.0" configVersion="1c40c46c1beeeb419b519e85f871f68f00000000"/>
 		<Metadata name="Document.ВедомостьПосещаемостиЗанятия.ObjectModule" id="3a23ff5e-0e60-4b40-8451-4336530d7024.0" configVersion="a3dd106411046f4b9a59c0b84214588c00000000"/>
 		<Metadata name="Document.ЗакрытиеУчебногоПериода" id="04971d52-f5b0-4cb7-83e7-590e24596ac3" configVersion="dc6caf3ebf0c9a4492ae7a3147449b6d00000000">
 			<Metadata name="Document.ЗакрытиеУчебногоПериода.Attribute.ДатаЗакрытия" id="19a123e3-8e1c-43a8-a1eb-479d4d85c462"/>

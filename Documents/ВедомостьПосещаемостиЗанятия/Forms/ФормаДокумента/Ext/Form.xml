@@ -133,6 +133,9 @@
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="ПосещаемостьСтатусКонтекстноеМеню" id="48"/>
 					<ExtendedTooltip name="ПосещаемостьСтатусРасширеннаяПодсказка" id="49"/>
+					<Events>
+						<Event name="OnChange">ПосещаемостьСтатусПриИзменении</Event>
+					</Events>
 				</InputField>
 				<InputField name="ПосещаемостьПричинаПропуска" id="50">
 					<DataPath>Объект.Посещаемость.ПричинаПропуска</DataPath>
@@ -140,6 +143,9 @@
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="ПосещаемостьПричинаПропускаКонтекстноеМеню" id="51"/>
 					<ExtendedTooltip name="ПосещаемостьПричинаПропускаРасширеннаяПодсказка" id="52"/>
+					<Events>
+						<Event name="OnChange">ПосещаемостьПричинаПропускаПриИзменении</Event>
+					</Events>
 				</InputField>
 				<InputField name="ПосещаемостьМинутОпоздания" id="53">
 					<DataPath>Объект.Посещаемость.МинутОпоздания</DataPath>
