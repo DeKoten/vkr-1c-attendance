@@ -362,7 +362,8 @@
 		<Metadata name="Subsystem.КонтрольИСправки" id="8787b005-643a-491b-87e3-858060a7653c" configVersion="30c8a34d8cf1344384e454730c7cee1b00000000"/>
 		<Metadata name="Subsystem.НСИИСтруктураВуза" id="df5560fe-221c-43c7-b08f-f6272ab952d8" configVersion="00fa629e0181d84abbd0d53c2d256b9c00000000"/>
 		<Metadata name="Subsystem.УчебныйПроцесс" id="327ea128-5286-40d5-9194-62e229b004dd" configVersion="71141de398823b4c9c1210ac6a2c9dd600000000"/>
-		<Metadata name="Subsystem.УчетПосещаемости" id="54fc8d00-3db2-49d9-9b55-5025f4de7a50" configVersion="b9df86c7d974e64c9a98ad0db643ee8200000000"/>
+		<Metadata name="Subsystem.УчетПосещаемости" id="54fc8d00-3db2-49d9-9b55-5025f4de7a50" configVersion="24db1924333375489dd47fa778cfc57400000000"/>
+		<Metadata name="Subsystem.УчетПосещаемости.CommandInterface" id="54fc8d00-3db2-49d9-9b55-5025f4de7a50.1" configVersion="5f9d7c26a9873b4a9de5fa5be83dda2e00000000"/>
 		<Metadata name="Task.ЗадачиДеканата" id="78dba475-e727-4c89-ad4c-c971a3d58ce8" configVersion="49ef8f5ba5a73f4991fe95b1ca56677c00000000">
 			<Metadata name="Task.ЗадачиДеканата.Attribute.КомментарийИсполнителя" id="11c9e490-a1d8-457f-bfd3-0fe90a209801"/>
 			<Metadata name="Task.ЗадачиДеканата.Attribute.Исполнитель" id="36991eac-9949-43c9-8c3c-b978006d7dfa"/>
