@@ -151,7 +151,7 @@
 			<Metadata name="Document.АктКонтроляПосещаемости.Attribute.Проверяющий" id="efaf32fd-1e5b-4f69-ae81-a94d1d6a301d"/>
 		</Metadata>
 		<Metadata name="Document.АктКонтроляПосещаемости.ObjectModule" id="bc4561f3-6b02-4577-a925-a7894ee38b41.0" configVersion="328857b3eb84da41ab052d3f3ec1c15300000000"/>
-		<Metadata name="Document.ВедомостьПосещаемостиЗанятия" id="3a23ff5e-0e60-4b40-8451-4336530d7024" configVersion="2e213295b9c9ad449c6a6626a54860a600000000">
+		<Metadata name="Document.ВедомостьПосещаемостиЗанятия" id="3a23ff5e-0e60-4b40-8451-4336530d7024" configVersion="f07b4cf30ce97540b499091a7f41b44b00000000">
 			<Metadata name="Document.ВедомостьПосещаемостиЗанятия.Attribute.КоличествоЧасов" id="098a78aa-36f8-471c-af0f-f58a7f4f7ec6"/>
 			<Metadata name="Document.ВедомостьПосещаемостиЗанятия.Attribute.УчебнаяГруппа" id="0a948694-8441-4413-85bd-e9382d9aba78"/>
 			<Metadata name="Document.ВедомостьПосещаемостиЗанятия.TabularSection.Посещаемость.Attribute.Статус" id="364cf996-6030-4df8-81c5-bb64f4ea3586"/>
@@ -166,6 +166,8 @@
 			<Metadata name="Document.ВедомостьПосещаемостиЗанятия.Attribute.Дисциплина" id="dfce3f55-8ad9-44fc-b330-4211d13f1157"/>
 			<Metadata name="Document.ВедомостьПосещаемостиЗанятия.TabularSection.Посещаемость.Attribute.МинутОпоздания" id="f40c3d31-3634-4530-99da-cb3667b85285"/>
 		</Metadata>
+		<Metadata name="Document.ВедомостьПосещаемостиЗанятия.Form.ФормаДокумента" id="a992b3ae-5172-45d8-a87f-2c613139551c" configVersion="23ed5eee670d204e99b7c6a6461347c900000000"/>
+		<Metadata name="Document.ВедомостьПосещаемостиЗанятия.Form.ФормаДокумента.Form" id="a992b3ae-5172-45d8-a87f-2c613139551c.0" configVersion="626a00e78b87634c86b01a921e0772f400000000"/>
 		<Metadata name="Document.ВедомостьПосещаемостиЗанятия.ObjectModule" id="3a23ff5e-0e60-4b40-8451-4336530d7024.0" configVersion="a3dd106411046f4b9a59c0b84214588c00000000"/>
 		<Metadata name="Document.ЗакрытиеУчебногоПериода" id="04971d52-f5b0-4cb7-83e7-590e24596ac3" configVersion="dc6caf3ebf0c9a4492ae7a3147449b6d00000000">
 			<Metadata name="Document.ЗакрытиеУчебногоПериода.Attribute.ДатаЗакрытия" id="19a123e3-8e1c-43a8-a1eb-479d4d85c462"/>
