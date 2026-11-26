@@ -140,7 +140,7 @@
 		<Metadata name="DataProcessor.ЗаполнениеТестовымиДанными.Form.Форма" id="a5ee76f3-79af-4f18-a51a-45442f4c62c0" configVersion="6a362633f0b35847bd0b40ba852af0df00000000"/>
 		<Metadata name="DataProcessor.ЗаполнениеТестовымиДанными.Form.Форма.Form" id="a5ee76f3-79af-4f18-a51a-45442f4c62c0.0" configVersion="4e0d06d6f1a68a41bd059d18730056b400000000"/>
 		<Metadata name="DataProcessor.ЗаполнениеТестовымиДанными.ObjectModule" id="bb993a89-6518-4939-a67b-ccb7ef5c4055.0" configVersion="612c0b2dbcfe7a43811890f645a9633a00000000"/>
-		<Metadata name="Document.АктКонтроляПосещаемости" id="bc4561f3-6b02-4577-a925-a7894ee38b41" configVersion="abf005e43575e649a49153475769d31000000000">
+		<Metadata name="Document.АктКонтроляПосещаемости" id="bc4561f3-6b02-4577-a925-a7894ee38b41" configVersion="d91b43a13ee8f643b061021da6d0e08b00000000">
 			<Metadata name="Document.АктКонтроляПосещаемости.Attribute.ВсегоПоСписку" id="088e45c7-f900-4e7d-a1ed-b7ac03bb2150"/>
 			<Metadata name="Document.АктКонтроляПосещаемости.Attribute.УчебнаяГруппа" id="0d719f2f-4b39-4d93-98ec-2bd092d8dbdf"/>
 			<Metadata name="Document.АктКонтроляПосещаемости.Attribute.ПрисутствовалоПоФакту" id="5c19b11c-8b14-4058-8a56-d7bf01ac4790"/>
@@ -150,6 +150,8 @@
 			<Metadata name="Document.АктКонтроляПосещаемости.Attribute.Аудитория" id="e8c48899-45ef-4af0-b03b-553b847aad9a"/>
 			<Metadata name="Document.АктКонтроляПосещаемости.Attribute.Проверяющий" id="efaf32fd-1e5b-4f69-ae81-a94d1d6a301d"/>
 		</Metadata>
+		<Metadata name="Document.АктКонтроляПосещаемости.Form.ФормаДокумента" id="f73f8e1d-363c-4b6f-b0ae-465929cc5e1d" configVersion="cdf5a70a1d57304e89eaa7b566e9f77000000000"/>
+		<Metadata name="Document.АктКонтроляПосещаемости.Form.ФормаДокумента.Form" id="f73f8e1d-363c-4b6f-b0ae-465929cc5e1d.0" configVersion="8dfeea8aa7c51e48b419267ed1f57c5200000000"/>
 		<Metadata name="Document.АктКонтроляПосещаемости.ObjectModule" id="bc4561f3-6b02-4577-a925-a7894ee38b41.0" configVersion="328857b3eb84da41ab052d3f3ec1c15300000000"/>
 		<Metadata name="Document.ВедомостьПосещаемостиЗанятия" id="3a23ff5e-0e60-4b40-8451-4336530d7024" configVersion="f07b4cf30ce97540b499091a7f41b44b00000000">
 			<Metadata name="Document.ВедомостьПосещаемостиЗанятия.Attribute.КоличествоЧасов" id="098a78aa-36f8-471c-af0f-f58a7f4f7ec6"/>
