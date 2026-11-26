@@ -127,8 +127,8 @@
 		<Metadata name="CommonCommand.ОткрытьСправкуОСистеме.CommandModule" id="bce74f6c-60d9-49ca-a449-803dceb76c4e.2" configVersion="f983f79842f964458026d1a19b0b73ad00000000"/>
 		<Metadata name="CommonForm.СправкаОСистеме" id="0323d425-da39-43b8-a5a4-a33750f9618a" configVersion="1354042ee1098d40b179ea69ae0622fb00000000"/>
 		<Metadata name="CommonForm.СправкаОСистеме.Form" id="0323d425-da39-43b8-a5a4-a33750f9618a.0" configVersion="599157a8998622429da0a38a2bec9b7900000000"/>
-		<Metadata name="CommonModule.УчетПосещаемостиСервер" id="5754384a-9e5b-41cf-a586-100013e6c75b" configVersion="5cda3bed5c17c1478ad886d6ead29ada00000000"/>
-		<Metadata name="CommonModule.УчетПосещаемостиСервер.Module" id="5754384a-9e5b-41cf-a586-100013e6c75b.0" configVersion="100f45e2d3ed5941ba938c27b243438e00000000"/>
+		<Metadata name="CommonModule.УчетПосещаемостиСервер" id="5754384a-9e5b-41cf-a586-100013e6c75b" configVersion="5bdbad7e6df79a4298d845ae6e55b2d900000000"/>
+		<Metadata name="CommonModule.УчетПосещаемостиСервер.Module" id="5754384a-9e5b-41cf-a586-100013e6c75b.0" configVersion="0605dfceedfab44b8617a6805cfbb83300000000"/>
 		<Metadata name="Configuration.ЮдинДВ_70188338" id="2f289f27-841c-4d83-be72-b037cc4ed011" configVersion="78b99cd3e778e248856fc3d0a3f2980c00000000"/>
 		<Metadata name="Constant.НаименованиеУчебногоЗаведения" id="d9d4e684-8844-448d-8b70-f0101659c624" configVersion="b4676f31d9e9124a95b5bbcb03ddef5500000000"/>
 		<Metadata name="Constant.ПорогНеуважительныхПропусковВЧасах" id="2a12c904-d890-46d3-91d7-14e07e8f0bca" configVersion="a25913b9952aa44881bc92e3293e1a8700000000"/>
