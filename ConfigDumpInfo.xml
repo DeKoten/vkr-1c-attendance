@@ -129,8 +129,9 @@
 		<Metadata name="CommonForm.СправкаОСистеме.Form" id="0323d425-da39-43b8-a5a4-a33750f9618a.0" configVersion="599157a8998622429da0a38a2bec9b7900000000"/>
 		<Metadata name="CommonModule.УчетПосещаемостиСервер" id="5754384a-9e5b-41cf-a586-100013e6c75b" configVersion="82268a4fed17a84e913e289b4ab6297c00000000"/>
 		<Metadata name="CommonModule.УчетПосещаемостиСервер.Module" id="5754384a-9e5b-41cf-a586-100013e6c75b.0" configVersion="0605dfceedfab44b8617a6805cfbb83300000000"/>
-		<Metadata name="Configuration.ЮдинДВ_70188338" id="2f289f27-841c-4d83-be72-b037cc4ed011" configVersion="c053ac1a1c71f443bc1815637cce9c4400000000"/>
+		<Metadata name="Configuration.ЮдинДВ_70188338" id="2f289f27-841c-4d83-be72-b037cc4ed011" configVersion="f2616ab4072b3f47be649fbd385812d500000000"/>
 		<Metadata name="Configuration.ЮдинДВ_70188338.HomePageWorkArea" id="706030df-12d3-4c8e-bb7a-445f4184889a.8" configVersion="7121c7680b011549b3e6f82879846ed000000000"/>
+		<Metadata name="Configuration.ЮдинДВ_70188338.ManagedApplicationModule" id="706030df-12d3-4c8e-bb7a-445f4184889a.6" configVersion="0f9c2f1c99f14f44a8cabace6156ec0b00000000"/>
 		<Metadata name="Constant.НаименованиеУчебногоЗаведения" id="d9d4e684-8844-448d-8b70-f0101659c624" configVersion="b4676f31d9e9124a95b5bbcb03ddef5500000000"/>
 		<Metadata name="Constant.ПорогНеуважительныхПропусковВЧасах" id="2a12c904-d890-46d3-91d7-14e07e8f0bca" configVersion="a25913b9952aa44881bc92e3293e1a8700000000"/>
 		<Metadata name="Constant.ПродолжительностьАкадемическогоЧаса" id="b41d6987-de57-4b23-abd0-704a92788bbf" configVersion="23860c19956fc14a99bb77cabcf9c98700000000"/>
