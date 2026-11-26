@@ -129,7 +129,8 @@
 		<Metadata name="CommonForm.СправкаОСистеме.Form" id="0323d425-da39-43b8-a5a4-a33750f9618a.0" configVersion="599157a8998622429da0a38a2bec9b7900000000"/>
 		<Metadata name="CommonModule.УчетПосещаемостиСервер" id="5754384a-9e5b-41cf-a586-100013e6c75b" configVersion="82268a4fed17a84e913e289b4ab6297c00000000"/>
 		<Metadata name="CommonModule.УчетПосещаемостиСервер.Module" id="5754384a-9e5b-41cf-a586-100013e6c75b.0" configVersion="0605dfceedfab44b8617a6805cfbb83300000000"/>
-		<Metadata name="Configuration.ЮдинДВ_70188338" id="2f289f27-841c-4d83-be72-b037cc4ed011" configVersion="78b99cd3e778e248856fc3d0a3f2980c00000000"/>
+		<Metadata name="Configuration.ЮдинДВ_70188338" id="2f289f27-841c-4d83-be72-b037cc4ed011" configVersion="c053ac1a1c71f443bc1815637cce9c4400000000"/>
+		<Metadata name="Configuration.ЮдинДВ_70188338.HomePageWorkArea" id="706030df-12d3-4c8e-bb7a-445f4184889a.8" configVersion="7121c7680b011549b3e6f82879846ed000000000"/>
 		<Metadata name="Constant.НаименованиеУчебногоЗаведения" id="d9d4e684-8844-448d-8b70-f0101659c624" configVersion="b4676f31d9e9124a95b5bbcb03ddef5500000000"/>
 		<Metadata name="Constant.ПорогНеуважительныхПропусковВЧасах" id="2a12c904-d890-46d3-91d7-14e07e8f0bca" configVersion="a25913b9952aa44881bc92e3293e1a8700000000"/>
 		<Metadata name="Constant.ПродолжительностьАкадемическогоЧаса" id="b41d6987-de57-4b23-abd0-704a92788bbf" configVersion="23860c19956fc14a99bb77cabcf9c98700000000"/>
@@ -341,7 +342,9 @@
 		<Metadata name="Report.КонтрольОтработкиПропусков" id="3f6eda58-3ed0-45e7-b931-d551640a45db" configVersion="4913a402f2b7284e91c8c8c58e7743d100000000"/>
 		<Metadata name="Report.КонтрольОтработкиПропусков.Template.ОсновнаяСхемаКомпоновкиДанных" id="0d52c45f-3f2e-47f7-a02d-f9e9d54fab82" configVersion="432924e7a0d51b4185539bbaf4260e1e00000000"/>
 		<Metadata name="Report.КонтрольОтработкиПропусков.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="0d52c45f-3f2e-47f7-a02d-f9e9d54fab82.0" configVersion="f61656963486b4489227c56b9fc90d3200000000"/>
-		<Metadata name="Report.РейтингПропусковИГруппаРиска" id="6227cffe-280e-43e1-bc63-9a046cc0b1ea" configVersion="051cd44373702544be5f1c1b96f6d0a200000000"/>
+		<Metadata name="Report.РейтингПропусковИГруппаРиска" id="6227cffe-280e-43e1-bc63-9a046cc0b1ea" configVersion="6b0cd9b2bfd0e14db93760d5538c2b8700000000"/>
+		<Metadata name="Report.РейтингПропусковИГруппаРиска.Form.ФормаОтчета" id="8406a624-f74d-427a-b622-8e6fad894d63" configVersion="042b130f8ceba346841c0310ccea3fe700000000"/>
+		<Metadata name="Report.РейтингПропусковИГруппаРиска.Form.ФормаОтчета.Form" id="8406a624-f74d-427a-b622-8e6fad894d63.0" configVersion="464b8e81dcb7b142ae9c6a709ead403400000000"/>
 		<Metadata name="Report.РейтингПропусковИГруппаРиска.Template.ОсновнаяСхемаКомпоновкиДанных" id="bed529e6-4e83-41fe-9e4a-dfb9815279b9" configVersion="7819e4c3b11275408b543e7891dfa5f300000000"/>
 		<Metadata name="Report.РейтингПропусковИГруппаРиска.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="bed529e6-4e83-41fe-9e4a-dfb9815279b9.0" configVersion="9e39419f9f5d1748b5afeb98bf5b52fa00000000"/>
 		<Metadata name="Report.СводнаяВедомостьПосещаемостиГруппы" id="49fe954a-93f6-4d91-954f-1c9e4ef48494" configVersion="53c6498b93968a40ae6797fcad993dec00000000"/>
